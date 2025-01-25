@@ -9,7 +9,7 @@ const Profile = () => {
                 <p className="userInfo" id="userInfo1">
                     Name: {user.name}</p>
                 <p className="userInfo" id="userInfo2">
-                    Email: {user.UFEmail}</p>
+                    Email: {user.email}</p>
             </div>
         </>
     )
