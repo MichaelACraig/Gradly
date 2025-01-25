@@ -1,25 +1,48 @@
-import React from 'react'
-import {useAuth0} from '@auth0/auth0-react';
+import React from 'react';
+import { useAuth0 } from '@auth0/auth0-react';
 import LogOut from './LogOut.js';
 
-// Used the following source: https://www.geeksforgeeks.org/how-to-build-a-react-app-with-user-authentication/
 const Profile = () => {
-    const {user} = useAuth0();
+    const { user, isAuthenticated, isLoading } = useAuth0();
+
+    if (isLoading) {
+        return <div>Loading...</div>;
+    }
+
+    if (!isAuthenticated) {
+        return <div>Please log in to view your profile.</div>;
+    }
+
     return (
         <>
             <div className="container">
-                <p className="userInfo" id="userInfo1">
-                    Name: {user.name}</p>
-                <p className="userInfo" id="userInfo2">
-                    Email: {user.email}</p>
-                <img
-                    src={user.picture}
-                    alt="User Profile"
-                    className="profile-picture"
-                />
+                {user && (
+                    <>
+                        <p className="userInfo" id="userInfo1">
+                            Name: {user.name}
+                        </p>
+                        <p className="userInfo" id="userInfo2">
+                            Email: {user.email}
+                        </p>
+                        <img
+                            src={user.picture}
+                            alt="User Profile"
+                            className="profile-picture"
+                            style={{
+                                borderRadius: '50%',
+                                width: '150px',
+                                height: '150px',
+                                marginTop: '10px',
+                            }}
+                        />
+                    </>
+                )}
             </div>
-            <LogOut />
+            <div style={{ marginTop: '20px' }}>
+                <LogOut />
+            </div>
         </>
-    )
-}
+    );
+};
+
 export default Profile;
