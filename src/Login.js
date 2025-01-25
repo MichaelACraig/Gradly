@@ -1,19 +1,19 @@
-import React from 'react';
-import { useAuth0 } from '@auth0/auth0-react';
+import React from "react";
+import LoginButton from "./LoginButton";
+import house from './house.jpg';
 
-// Used the following source: https://www.geeksforgeeks.org/how-to-build-a-react-app-with-user-authentication/
-const Login = () => {
-    const { loginWithRedirect, isAuthenticated } = useAuth0();
-
-    if (!isAuthenticated) {
-        return (
-            <>
-                <button className="btn btn-primary" onClick={() => loginWithRedirect()}>
-                    Log In
-                </button>
-            </>
-        );
-    }
-};
+function Login() {
+  return <>
+    <img src={house} className="App-logo" alt="logo" />
+    <p>
+        Welcome to HouseFinder.io! Login to our website to find the 
+        best house match for your needs.
+    </p>
+    {/* <Link to="/login">
+        <button className="btn btn-secondary">Log In</button>
+    </Link> */}
+    <LoginButton />
+  </>;
+}
 
 export default Login;
