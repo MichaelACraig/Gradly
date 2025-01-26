@@ -6,6 +6,7 @@ const SearchFilters = ({ onFilterChange }) => {
     beds: "",
     baths: "",
     proximity: "",
+    duration: "", // New filter for duration
   });
 
   const [showFilters, setShowFilters] = useState(false);
@@ -96,6 +97,19 @@ const SearchFilters = ({ onFilterChange }) => {
                 setFilters((prev) => ({ ...prev, proximity: e.target.value }))
               }
               placeholder="Enter proximity"
+            />
+          </div>
+
+          <div className="filter">
+            <label htmlFor="duration">Duration (months):</label>
+            <input
+              type="number"
+              id="duration"
+              value={filters.duration}
+              onChange={(e) =>
+                setFilters((prev) => ({ ...prev, duration: e.target.value }))
+              }
+              placeholder="Enter duration"
             />
           </div>
 
