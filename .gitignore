@@ -23,6 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 
 #python
+.env
 .venv/
 __pycache__/
-.env
