@@ -4,7 +4,7 @@ import {useAuth0} from '@auth0/auth0-react';
 import LogOut from './LogOut.js';
 import Header from './Header.js';
 import Contacts from './Contacts.js';
-import Login from './Login.js';
+
 import Home from './Home.js';
 import MyListings from './MyListings.js';
 import Profile from './Profile.js';
@@ -21,12 +21,12 @@ function App() {
         </main> */}
         {/* Router for navigating to Login after clicking button*/}
         <Routes>
-              <Route path = '/login' element={<Login />} />
               <Route path = '/logout' element={<LogOut />} />
               <Route path="/contacts" element={<Contacts />} />
               <Route path="/home" element={<Home />} />
               <Route path="/mylistings" element={<MyListings />} />
               <Route path="/profile" element={<Profile />} />
+              <Route path="/forms" element={<myInformation />} />
         </Routes>
       </div>
     </Router>
