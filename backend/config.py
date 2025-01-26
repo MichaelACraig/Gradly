@@ -1,5 +1,7 @@
-# INSERT AWS DATABASE INFO HERE. NEED TO INPUT DATABASE_URI INTO .ENV
 import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 class Config:
     SQLALCHEMY_DATABASE_URI = os.getenv("MONGO_URI")

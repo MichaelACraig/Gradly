@@ -1,13 +1,13 @@
 from flask import Flask
-from models import db
-# from config import Config
+from config import Config
+from flask_pymongo import PyMongo
 from routes import home_routes, user_routes
 
 # Flask app
 app = Flask(__name__)
 
-# Initialize SQLAlchemy
-db.init_app(app)
+# Loads config w/ MongoDB URI
+app.config.from_object(Config)
 
 # Routes blueprints from routes.py
 app.register_blueprint(home_routes)

@@ -1,0 +1,2802 @@
+[
+    {
+        "name": "Modern 3-Bedroom Home in Quiet Neighborhood",
+        "price_per_month": 1693,
+        "duration": "10 months",
+        "contact": {
+            "email": "user0@example.com",
+            "phone": "(555) 550-4547"
+        },
+        "location": "283 Main St, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.648762884931056,
+            "longitude": -82.32267802670644
+        }
+    },
+    {
+        "name": "Large 1-Bedroom with High Ceilings",
+        "price_per_month": 813,
+        "duration": "12 months",
+        "contact": {
+            "email": "user1@example.com",
+            "phone": "(555) 348-2696"
+        },
+        "location": "928 University Ave, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.669442520082693,
+            "longitude": -82.38558839587746
+        }
+    },
+    {
+        "name": "Cozy Studio Near UF Campus",
+        "price_per_month": 995,
+        "duration": "8 months",
+        "contact": {
+            "email": "user2@example.com",
+            "phone": "(555) 772-1492"
+        },
+        "location": "604 Pine St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.620658812867664,
+            "longitude": -82.30527997676207
+        }
+    },
+    {
+        "name": "Spacious 1-Bedroom with Pool Access",
+        "price_per_month": 1088,
+        "duration": "7 months",
+        "contact": {
+            "email": "user3@example.com",
+            "phone": "(555) 607-2059"
+        },
+        "location": "491 Pine St, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.626000885481563,
+            "longitude": -82.38503212747779
+        }
+    },
+    {
+        "name": "Upgraded 2-Bedroom in Gated Community",
+        "price_per_month": 893,
+        "duration": "7 months",
+        "contact": {
+            "email": "user4@example.com",
+            "phone": "(555) 635-3349"
+        },
+        "location": "349 Maple Rd, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.676743327781388,
+            "longitude": -82.3343157811147
+        }
+    },
+    {
+        "name": "Affordable Room in Shared Apartment",
+        "price_per_month": 1555,
+        "duration": "11 months",
+        "contact": {
+            "email": "user5@example.com",
+            "phone": "(555) 665-7253"
+        },
+        "location": "577 Oak St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.640406171316407,
+            "longitude": -82.31224229849181
+        }
+    },
+    {
+        "name": "Furnished Room in Large House",
+        "price_per_month": 972,
+        "duration": "5 months",
+        "contact": {
+            "email": "user6@example.com",
+            "phone": "(555) 598-8467"
+        },
+        "location": "289 University Ave, Gainesville, FL 32609",
+        "coordinates": {
+            "latitude": 29.644754979120826,
+            "longitude": -82.38529133224277
+        }
+    },
+    {
+        "name": "Charming Studio with Garden View",
+        "price_per_month": 1521,
+        "duration": "3 months",
+        "contact": {
+            "email": "user7@example.com",
+            "phone": "(555) 803-1464"
+        },
+        "location": "156 Oak St, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.62229374018064,
+            "longitude": -82.39421156210864
+        }
+    },
+    {
+        "name": "Cozy Studio Near UF Campus",
+        "price_per_month": 1169,
+        "duration": "9 months",
+        "contact": {
+            "email": "user8@example.com",
+            "phone": "(555) 275-4007"
+        },
+        "location": "182 Pine St, Gainesville, FL 32609",
+        "coordinates": {
+            "latitude": 29.619541057346535,
+            "longitude": -82.30371595270387
+        }
+    },
+    {
+        "name": "Furnished Room in Large House",
+        "price_per_month": 1767,
+        "duration": "6 months",
+        "contact": {
+            "email": "user9@example.com",
+            "phone": "(555) 772-3985"
+        },
+        "location": "933 University Ave, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.673544723449986,
+            "longitude": -82.39703135904838
+        }
+    },
+    {
+        "name": "Convenient 1-Bedroom Near Bus Stop",
+        "price_per_month": 904,
+        "duration": "9 months",
+        "contact": {
+            "email": "user10@example.com",
+            "phone": "(555) 939-9527"
+        },
+        "location": "234 University Ave, Gainesville, FL 32609",
+        "coordinates": {
+            "latitude": 29.614027707423517,
+            "longitude": -82.39671344551466
+        }
+    },
+    {
+        "name": "Sunny 2-Bedroom Apartment in Downtown",
+        "price_per_month": 905,
+        "duration": "4 months",
+        "contact": {
+            "email": "user11@example.com",
+            "phone": "(555) 790-6567"
+        },
+        "location": "760 University Ave, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.632240277362655,
+            "longitude": -82.30390380960466
+        }
+    },
+    {
+        "name": "Large 1-Bedroom with High Ceilings",
+        "price_per_month": 1565,
+        "duration": "5 months",
+        "contact": {
+            "email": "user12@example.com",
+            "phone": "(555) 119-5798"
+        },
+        "location": "437 Pine St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.67289253228841,
+            "longitude": -82.31150435590857
+        }
+    },
+    {
+        "name": "Sunny 2-Bedroom Apartment in Downtown",
+        "price_per_month": 1748,
+        "duration": "9 months",
+        "contact": {
+            "email": "user13@example.com",
+            "phone": "(555) 740-8337"
+        },
+        "location": "692 University Ave, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.66411641359318,
+            "longitude": -82.33683467926741
+        }
+    },
+    {
+        "name": "Sunny 2-Bedroom Apartment in Downtown",
+        "price_per_month": 1287,
+        "duration": "6 months",
+        "contact": {
+            "email": "user14@example.com",
+            "phone": "(555) 407-6567"
+        },
+        "location": "676 Pine St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.68706434190347,
+            "longitude": -82.33195398684505
+        }
+    },
+    {
+        "name": "Spacious 1-Bedroom with Pool Access",
+        "price_per_month": 1714,
+        "duration": "5 months",
+        "contact": {
+            "email": "user15@example.com",
+            "phone": "(555) 957-1265"
+        },
+        "location": "849 Oak St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.600692279359254,
+            "longitude": -82.35115927930161
+        }
+    },
+    {
+        "name": "Sunny 2-Bedroom Apartment in Downtown",
+        "price_per_month": 1030,
+        "duration": "10 months",
+        "contact": {
+            "email": "user16@example.com",
+            "phone": "(555) 803-4616"
+        },
+        "location": "117 University Ave, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.62299232760078,
+            "longitude": -82.32209674766669
+        }
+    },
+    {
+        "name": "Upgraded 2-Bedroom in Gated Community",
+        "price_per_month": 1294,
+        "duration": "3 months",
+        "contact": {
+            "email": "user17@example.com",
+            "phone": "(555) 789-9359"
+        },
+        "location": "914 Maple Rd, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.627665439996555,
+            "longitude": -82.37315255557421
+        }
+    },
+    {
+        "name": "Sunny 2-Bedroom Apartment in Downtown",
+        "price_per_month": 1493,
+        "duration": "8 months",
+        "contact": {
+            "email": "user18@example.com",
+            "phone": "(555) 164-1582"
+        },
+        "location": "980 Pine St, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.606661747466326,
+            "longitude": -82.33598207790247
+        }
+    },
+    {
+        "name": "Upgraded 2-Bedroom in Gated Community",
+        "price_per_month": 1185,
+        "duration": "10 months",
+        "contact": {
+            "email": "user19@example.com",
+            "phone": "(555) 210-9292"
+        },
+        "location": "900 University Ave, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.62984307560268,
+            "longitude": -82.37287115746282
+        }
+    },
+    {
+        "name": "Modern 3-Bedroom Home in Quiet Neighborhood",
+        "price_per_month": 1727,
+        "duration": "8 months",
+        "contact": {
+            "email": "user20@example.com",
+            "phone": "(555) 727-9718"
+        },
+        "location": "849 Oak St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.679515362276994,
+            "longitude": -82.33065805946039
+        }
+    },
+    {
+        "name": "Upgraded 2-Bedroom in Gated Community",
+        "price_per_month": 1563,
+        "duration": "12 months",
+        "contact": {
+            "email": "user21@example.com",
+            "phone": "(555) 323-1958"
+        },
+        "location": "478 Main St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.640388317757957,
+            "longitude": -82.37612602233052
+        }
+    },
+    {
+        "name": "Convenient 1-Bedroom Near Bus Stop",
+        "price_per_month": 1565,
+        "duration": "11 months",
+        "contact": {
+            "email": "user22@example.com",
+            "phone": "(555) 371-4924"
+        },
+        "location": "733 Maple Rd, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.610970599949837,
+            "longitude": -82.33304305550155
+        }
+    },
+    {
+        "name": "Convenient 1-Bedroom Near Bus Stop",
+        "price_per_month": 1144,
+        "duration": "4 months",
+        "contact": {
+            "email": "user23@example.com",
+            "phone": "(555) 571-4330"
+        },
+        "location": "369 Maple Rd, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.67854512374267,
+            "longitude": -82.30500124757259
+        }
+    },
+    {
+        "name": "Charming Studio with Garden View",
+        "price_per_month": 845,
+        "duration": "3 months",
+        "contact": {
+            "email": "user24@example.com",
+            "phone": "(555) 983-8887"
+        },
+        "location": "763 University Ave, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.654432935045016,
+            "longitude": -82.33800810329322
+        }
+    },
+    {
+        "name": "Convenient 1-Bedroom Near Bus Stop",
+        "price_per_month": 1269,
+        "duration": "10 months",
+        "contact": {
+            "email": "user25@example.com",
+            "phone": "(555) 995-7063"
+        },
+        "location": "783 Maple Rd, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.607682938933745,
+            "longitude": -82.30069708247092
+        }
+    },
+    {
+        "name": "Upgraded 2-Bedroom in Gated Community",
+        "price_per_month": 1747,
+        "duration": "5 months",
+        "contact": {
+            "email": "user26@example.com",
+            "phone": "(555) 787-6663"
+        },
+        "location": "546 Oak St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.679057304696038,
+            "longitude": -82.32004638779297
+        }
+    },
+    {
+        "name": "Sunny 2-Bedroom Apartment in Downtown",
+        "price_per_month": 1352,
+        "duration": "12 months",
+        "contact": {
+            "email": "user27@example.com",
+            "phone": "(555) 238-2415"
+        },
+        "location": "313 University Ave, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.62123126643525,
+            "longitude": -82.3385819596942
+        }
+    },
+    {
+        "name": "Large 1-Bedroom with High Ceilings",
+        "price_per_month": 1366,
+        "duration": "5 months",
+        "contact": {
+            "email": "user28@example.com",
+            "phone": "(555) 241-2701"
+        },
+        "location": "946 University Ave, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.64347564673193,
+            "longitude": -82.3138897374048
+        }
+    },
+    {
+        "name": "Upgraded 2-Bedroom in Gated Community",
+        "price_per_month": 1307,
+        "duration": "6 months",
+        "contact": {
+            "email": "user29@example.com",
+            "phone": "(555) 344-9198"
+        },
+        "location": "157 Oak St, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.68670153727618,
+            "longitude": -82.31889980385367
+        }
+    },
+    {
+        "name": "Upgraded 2-Bedroom in Gated Community",
+        "price_per_month": 1306,
+        "duration": "8 months",
+        "contact": {
+            "email": "user30@example.com",
+            "phone": "(555) 651-2446"
+        },
+        "location": "437 Maple Rd, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.6848183998613,
+            "longitude": -82.35937785324272
+        }
+    },
+    {
+        "name": "Charming Studio with Garden View",
+        "price_per_month": 1552,
+        "duration": "9 months",
+        "contact": {
+            "email": "user31@example.com",
+            "phone": "(555) 999-3838"
+        },
+        "location": "541 Maple Rd, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.673299394859754,
+            "longitude": -82.39175523865077
+        }
+    },
+    {
+        "name": "Upgraded 2-Bedroom in Gated Community",
+        "price_per_month": 951,
+        "duration": "6 months",
+        "contact": {
+            "email": "user32@example.com",
+            "phone": "(555) 877-1216"
+        },
+        "location": "457 Maple Rd, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.670466483305006,
+            "longitude": -82.38857288006075
+        }
+    },
+    {
+        "name": "Charming Studio with Garden View",
+        "price_per_month": 1420,
+        "duration": "8 months",
+        "contact": {
+            "email": "user33@example.com",
+            "phone": "(555) 173-1384"
+        },
+        "location": "818 University Ave, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.61098299530785,
+            "longitude": -82.32875681307155
+        }
+    },
+    {
+        "name": "Modern 3-Bedroom Home in Quiet Neighborhood",
+        "price_per_month": 1327,
+        "duration": "7 months",
+        "contact": {
+            "email": "user34@example.com",
+            "phone": "(555) 421-9861"
+        },
+        "location": "292 Pine St, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.620300962290642,
+            "longitude": -82.31754001573903
+        }
+    },
+    {
+        "name": "Sunny 2-Bedroom Apartment in Downtown",
+        "price_per_month": 1091,
+        "duration": "8 months",
+        "contact": {
+            "email": "user35@example.com",
+            "phone": "(555) 591-4820"
+        },
+        "location": "448 University Ave, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.646530924087518,
+            "longitude": -82.32254868895548
+        }
+    },
+    {
+        "name": "Spacious 1-Bedroom with Pool Access",
+        "price_per_month": 1025,
+        "duration": "3 months",
+        "contact": {
+            "email": "user36@example.com",
+            "phone": "(555) 332-7348"
+        },
+        "location": "471 Maple Rd, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.617981124255436,
+            "longitude": -82.3730159860779
+        }
+    },
+    {
+        "name": "Spacious 1-Bedroom with Pool Access",
+        "price_per_month": 1551,
+        "duration": "9 months",
+        "contact": {
+            "email": "user37@example.com",
+            "phone": "(555) 873-7981"
+        },
+        "location": "397 University Ave, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.6346129793855,
+            "longitude": -82.34692999724173
+        }
+    },
+    {
+        "name": "Spacious 1-Bedroom with Pool Access",
+        "price_per_month": 1031,
+        "duration": "5 months",
+        "contact": {
+            "email": "user38@example.com",
+            "phone": "(555) 429-5467"
+        },
+        "location": "498 Main St, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.671479700208916,
+            "longitude": -82.39406625531812
+        }
+    },
+    {
+        "name": "Cozy Studio Near UF Campus",
+        "price_per_month": 1730,
+        "duration": "7 months",
+        "contact": {
+            "email": "user39@example.com",
+            "phone": "(555) 428-4110"
+        },
+        "location": "279 University Ave, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.620374575408963,
+            "longitude": -82.39154382179005
+        }
+    },
+    {
+        "name": "Sunny 2-Bedroom Apartment in Downtown",
+        "price_per_month": 1682,
+        "duration": "5 months",
+        "contact": {
+            "email": "user40@example.com",
+            "phone": "(555) 519-7408"
+        },
+        "location": "725 Pine St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.6095753767498,
+            "longitude": -82.34680209635158
+        }
+    },
+    {
+        "name": "Spacious 1-Bedroom with Pool Access",
+        "price_per_month": 1358,
+        "duration": "3 months",
+        "contact": {
+            "email": "user41@example.com",
+            "phone": "(555) 409-2941"
+        },
+        "location": "953 University Ave, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.629805156657643,
+            "longitude": -82.31302082282443
+        }
+    },
+    {
+        "name": "Spacious 1-Bedroom with Pool Access",
+        "price_per_month": 1514,
+        "duration": "3 months",
+        "contact": {
+            "email": "user42@example.com",
+            "phone": "(555) 246-9251"
+        },
+        "location": "671 University Ave, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.62017557625961,
+            "longitude": -82.33956467321717
+        }
+    },
+    {
+        "name": "Modern 3-Bedroom Home in Quiet Neighborhood",
+        "price_per_month": 998,
+        "duration": "7 months",
+        "contact": {
+            "email": "user43@example.com",
+            "phone": "(555) 328-3404"
+        },
+        "location": "590 Oak St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.641052970870724,
+            "longitude": -82.33051549951044
+        }
+    },
+    {
+        "name": "Upgraded 2-Bedroom in Gated Community",
+        "price_per_month": 990,
+        "duration": "12 months",
+        "contact": {
+            "email": "user44@example.com",
+            "phone": "(555) 210-6669"
+        },
+        "location": "310 Main St, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.621952574710246,
+            "longitude": -82.36545876065813
+        }
+    },
+    {
+        "name": "Upgraded 2-Bedroom in Gated Community",
+        "price_per_month": 1658,
+        "duration": "11 months",
+        "contact": {
+            "email": "user45@example.com",
+            "phone": "(555) 215-1487"
+        },
+        "location": "719 University Ave, Gainesville, FL 32609",
+        "coordinates": {
+            "latitude": 29.649206883498,
+            "longitude": -82.30895227060121
+        }
+    },
+    {
+        "name": "Spacious 1-Bedroom with Pool Access",
+        "price_per_month": 1347,
+        "duration": "3 months",
+        "contact": {
+            "email": "user46@example.com",
+            "phone": "(555) 371-6717"
+        },
+        "location": "775 Main St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.64472981917966,
+            "longitude": -82.30120782185003
+        }
+    },
+    {
+        "name": "Upgraded 2-Bedroom in Gated Community",
+        "price_per_month": 1132,
+        "duration": "8 months",
+        "contact": {
+            "email": "user47@example.com",
+            "phone": "(555) 207-4345"
+        },
+        "location": "869 Oak St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.67965041374337,
+            "longitude": -82.39889781014728
+        }
+    },
+    {
+        "name": "Charming Studio with Garden View",
+        "price_per_month": 1468,
+        "duration": "10 months",
+        "contact": {
+            "email": "user48@example.com",
+            "phone": "(555) 152-9012"
+        },
+        "location": "986 University Ave, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.63294671411219,
+            "longitude": -82.3110758219289
+        }
+    },
+    {
+        "name": "Sunny 2-Bedroom Apartment in Downtown",
+        "price_per_month": 1315,
+        "duration": "12 months",
+        "contact": {
+            "email": "user49@example.com",
+            "phone": "(555) 310-5649"
+        },
+        "location": "141 Main St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.680252089096054,
+            "longitude": -82.32231129251012
+        }
+    },
+    {
+        "name": "Charming Studio with Garden View",
+        "price_per_month": 1098,
+        "duration": "10 months",
+        "contact": {
+            "email": "user50@example.com",
+            "phone": "(555) 674-1139"
+        },
+        "location": "712 University Ave, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.630036702160343,
+            "longitude": -82.31037846362325
+        }
+    },
+    {
+        "name": "Modern 3-Bedroom Home in Quiet Neighborhood",
+        "price_per_month": 1095,
+        "duration": "6 months",
+        "contact": {
+            "email": "user51@example.com",
+            "phone": "(555) 187-1838"
+        },
+        "location": "673 University Ave, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.60433282138764,
+            "longitude": -82.39223837248896
+        }
+    },
+    {
+        "name": "Upgraded 2-Bedroom in Gated Community",
+        "price_per_month": 999,
+        "duration": "7 months",
+        "contact": {
+            "email": "user52@example.com",
+            "phone": "(555) 760-2995"
+        },
+        "location": "615 Maple Rd, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.668813248277168,
+            "longitude": -82.38357007145761
+        }
+    },
+    {
+        "name": "Charming Studio with Garden View",
+        "price_per_month": 1530,
+        "duration": "12 months",
+        "contact": {
+            "email": "user53@example.com",
+            "phone": "(555) 626-4344"
+        },
+        "location": "549 Main St, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.642852432630484,
+            "longitude": -82.35372105083499
+        }
+    },
+    {
+        "name": "Cozy Studio Near UF Campus",
+        "price_per_month": 1661,
+        "duration": "6 months",
+        "contact": {
+            "email": "user54@example.com",
+            "phone": "(555) 455-6080"
+        },
+        "location": "530 Maple Rd, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.601884143574257,
+            "longitude": -82.37384467134468
+        }
+    },
+    {
+        "name": "Large 1-Bedroom with High Ceilings",
+        "price_per_month": 907,
+        "duration": "5 months",
+        "contact": {
+            "email": "user55@example.com",
+            "phone": "(555) 988-9632"
+        },
+        "location": "958 Oak St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.636828499989356,
+            "longitude": -82.36152746174938
+        }
+    },
+    {
+        "name": "Affordable Room in Shared Apartment",
+        "price_per_month": 1497,
+        "duration": "3 months",
+        "contact": {
+            "email": "user56@example.com",
+            "phone": "(555) 354-9018"
+        },
+        "location": "306 Oak St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.632237604368925,
+            "longitude": -82.36453405466857
+        }
+    },
+    {
+        "name": "Furnished Room in Large House",
+        "price_per_month": 942,
+        "duration": "7 months",
+        "contact": {
+            "email": "user57@example.com",
+            "phone": "(555) 863-8545"
+        },
+        "location": "989 Maple Rd, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.645108845719385,
+            "longitude": -82.36292786702126
+        }
+    },
+    {
+        "name": "Affordable Room in Shared Apartment",
+        "price_per_month": 1793,
+        "duration": "9 months",
+        "contact": {
+            "email": "user58@example.com",
+            "phone": "(555) 793-6493"
+        },
+        "location": "912 Oak St, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.631515254058222,
+            "longitude": -82.36596812918121
+        }
+    },
+    {
+        "name": "Affordable Room in Shared Apartment",
+        "price_per_month": 1084,
+        "duration": "12 months",
+        "contact": {
+            "email": "user59@example.com",
+            "phone": "(555) 360-7203"
+        },
+        "location": "352 Maple Rd, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.651525878999998,
+            "longitude": -82.3120144001806
+        }
+    },
+    {
+        "name": "Modern 3-Bedroom Home in Quiet Neighborhood",
+        "price_per_month": 1239,
+        "duration": "10 months",
+        "contact": {
+            "email": "user60@example.com",
+            "phone": "(555) 430-1516"
+        },
+        "location": "191 Maple Rd, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.661828124936743,
+            "longitude": -82.30509388439056
+        }
+    },
+    {
+        "name": "Convenient 1-Bedroom Near Bus Stop",
+        "price_per_month": 1438,
+        "duration": "5 months",
+        "contact": {
+            "email": "user61@example.com",
+            "phone": "(555) 117-9473"
+        },
+        "location": "504 Main St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.618816462829358,
+            "longitude": -82.34529233456837
+        }
+    },
+    {
+        "name": "Large 1-Bedroom with High Ceilings",
+        "price_per_month": 987,
+        "duration": "5 months",
+        "contact": {
+            "email": "user62@example.com",
+            "phone": "(555) 927-7106"
+        },
+        "location": "218 Pine St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.640223799513365,
+            "longitude": -82.3732297961515
+        }
+    },
+    {
+        "name": "Modern 3-Bedroom Home in Quiet Neighborhood",
+        "price_per_month": 1006,
+        "duration": "5 months",
+        "contact": {
+            "email": "user63@example.com",
+            "phone": "(555) 768-5237"
+        },
+        "location": "603 University Ave, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.642438799009003,
+            "longitude": -82.36373815835806
+        }
+    },
+    {
+        "name": "Spacious 1-Bedroom with Pool Access",
+        "price_per_month": 873,
+        "duration": "5 months",
+        "contact": {
+            "email": "user64@example.com",
+            "phone": "(555) 298-3187"
+        },
+        "location": "756 Maple Rd, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.648826132441314,
+            "longitude": -82.34163007083237
+        }
+    },
+    {
+        "name": "Sunny 2-Bedroom Apartment in Downtown",
+        "price_per_month": 909,
+        "duration": "3 months",
+        "contact": {
+            "email": "user65@example.com",
+            "phone": "(555) 494-3819"
+        },
+        "location": "331 Pine St, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.62571885283523,
+            "longitude": -82.30487988505556
+        }
+    },
+    {
+        "name": "Affordable Room in Shared Apartment",
+        "price_per_month": 1604,
+        "duration": "12 months",
+        "contact": {
+            "email": "user66@example.com",
+            "phone": "(555) 258-2256"
+        },
+        "location": "650 University Ave, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.67042870209235,
+            "longitude": -82.31410760665267
+        }
+    },
+    {
+        "name": "Spacious 1-Bedroom with Pool Access",
+        "price_per_month": 1449,
+        "duration": "10 months",
+        "contact": {
+            "email": "user67@example.com",
+            "phone": "(555) 756-1729"
+        },
+        "location": "881 Pine St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.6073194765826,
+            "longitude": -82.35733924774335
+        }
+    },
+    {
+        "name": "Modern 3-Bedroom Home in Quiet Neighborhood",
+        "price_per_month": 1761,
+        "duration": "8 months",
+        "contact": {
+            "email": "user68@example.com",
+            "phone": "(555) 594-6922"
+        },
+        "location": "107 Maple Rd, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.606298678391333,
+            "longitude": -82.34725856891012
+        }
+    },
+    {
+        "name": "Spacious 1-Bedroom with Pool Access",
+        "price_per_month": 1388,
+        "duration": "7 months",
+        "contact": {
+            "email": "user69@example.com",
+            "phone": "(555) 433-3596"
+        },
+        "location": "748 Main St, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.641579284253083,
+            "longitude": -82.35811611234966
+        }
+    },
+    {
+        "name": "Modern 3-Bedroom Home in Quiet Neighborhood",
+        "price_per_month": 1187,
+        "duration": "5 months",
+        "contact": {
+            "email": "user70@example.com",
+            "phone": "(555) 432-4290"
+        },
+        "location": "532 Pine St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.612229997785377,
+            "longitude": -82.39099829797308
+        }
+    },
+    {
+        "name": "Cozy Studio Near UF Campus",
+        "price_per_month": 1332,
+        "duration": "10 months",
+        "contact": {
+            "email": "user71@example.com",
+            "phone": "(555) 308-2612"
+        },
+        "location": "274 Main St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.640244863815855,
+            "longitude": -82.38206031767837
+        }
+    },
+    {
+        "name": "Spacious 1-Bedroom with Pool Access",
+        "price_per_month": 1573,
+        "duration": "5 months",
+        "contact": {
+            "email": "user72@example.com",
+            "phone": "(555) 788-8458"
+        },
+        "location": "265 Maple Rd, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.663887711864547,
+            "longitude": -82.30702355699258
+        }
+    },
+    {
+        "name": "Charming Studio with Garden View",
+        "price_per_month": 1547,
+        "duration": "9 months",
+        "contact": {
+            "email": "user73@example.com",
+            "phone": "(555) 995-3722"
+        },
+        "location": "459 University Ave, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.622232264852126,
+            "longitude": -82.3962515031907
+        }
+    },
+    {
+        "name": "Convenient 1-Bedroom Near Bus Stop",
+        "price_per_month": 1150,
+        "duration": "10 months",
+        "contact": {
+            "email": "user74@example.com",
+            "phone": "(555) 998-1606"
+        },
+        "location": "200 Pine St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.682075801008267,
+            "longitude": -82.39877725857214
+        }
+    },
+    {
+        "name": "Furnished Room in Large House",
+        "price_per_month": 1088,
+        "duration": "7 months",
+        "contact": {
+            "email": "user75@example.com",
+            "phone": "(555) 939-8262"
+        },
+        "location": "615 Pine St, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.620651383137634,
+            "longitude": -82.39959207017831
+        }
+    },
+    {
+        "name": "Large 1-Bedroom with High Ceilings",
+        "price_per_month": 1366,
+        "duration": "10 months",
+        "contact": {
+            "email": "user76@example.com",
+            "phone": "(555) 230-1043"
+        },
+        "location": "351 Pine St, Gainesville, FL 32609",
+        "coordinates": {
+            "latitude": 29.603958234112447,
+            "longitude": -82.36746769728862
+        }
+    },
+    {
+        "name": "Sunny 2-Bedroom Apartment in Downtown",
+        "price_per_month": 1725,
+        "duration": "10 months",
+        "contact": {
+            "email": "user77@example.com",
+            "phone": "(555) 391-1088"
+        },
+        "location": "613 Maple Rd, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.608813012937183,
+            "longitude": -82.30769736038141
+        }
+    },
+    {
+        "name": "Large 1-Bedroom with High Ceilings",
+        "price_per_month": 1344,
+        "duration": "8 months",
+        "contact": {
+            "email": "user78@example.com",
+            "phone": "(555) 424-6750"
+        },
+        "location": "397 University Ave, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.6651672439153,
+            "longitude": -82.32089884101742
+        }
+    },
+    {
+        "name": "Charming Studio with Garden View",
+        "price_per_month": 1243,
+        "duration": "12 months",
+        "contact": {
+            "email": "user79@example.com",
+            "phone": "(555) 643-3806"
+        },
+        "location": "537 Main St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.69424049774095,
+            "longitude": -82.34362924763622
+        }
+    },
+    {
+        "name": "Cozy Studio Near UF Campus",
+        "price_per_month": 1455,
+        "duration": "7 months",
+        "contact": {
+            "email": "user80@example.com",
+            "phone": "(555) 907-5936"
+        },
+        "location": "556 University Ave, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.659151066306414,
+            "longitude": -82.37605766888808
+        }
+    },
+    {
+        "name": "Modern 3-Bedroom Home in Quiet Neighborhood",
+        "price_per_month": 830,
+        "duration": "10 months",
+        "contact": {
+            "email": "user81@example.com",
+            "phone": "(555) 101-4455"
+        },
+        "location": "221 Pine St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.678149624944382,
+            "longitude": -82.39038204426461
+        }
+    },
+    {
+        "name": "Large 1-Bedroom with High Ceilings",
+        "price_per_month": 1190,
+        "duration": "12 months",
+        "contact": {
+            "email": "user82@example.com",
+            "phone": "(555) 544-2471"
+        },
+        "location": "675 Oak St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.651504335671095,
+            "longitude": -82.39946823212532
+        }
+    },
+    {
+        "name": "Large 1-Bedroom with High Ceilings",
+        "price_per_month": 1718,
+        "duration": "6 months",
+        "contact": {
+            "email": "user83@example.com",
+            "phone": "(555) 401-7334"
+        },
+        "location": "983 Main St, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.63986261233948,
+            "longitude": -82.38667925685796
+        }
+    },
+    {
+        "name": "Spacious 1-Bedroom with Pool Access",
+        "price_per_month": 1452,
+        "duration": "12 months",
+        "contact": {
+            "email": "user84@example.com",
+            "phone": "(555) 582-1946"
+        },
+        "location": "464 Pine St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.618213294170157,
+            "longitude": -82.37522767411303
+        }
+    },
+    {
+        "name": "Spacious 1-Bedroom with Pool Access",
+        "price_per_month": 947,
+        "duration": "8 months",
+        "contact": {
+            "email": "user85@example.com",
+            "phone": "(555) 128-7096"
+        },
+        "location": "548 Oak St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.664184826117282,
+            "longitude": -82.35978096831444
+        }
+    },
+    {
+        "name": "Charming Studio with Garden View",
+        "price_per_month": 1553,
+        "duration": "6 months",
+        "contact": {
+            "email": "user86@example.com",
+            "phone": "(555) 761-6614"
+        },
+        "location": "485 Main St, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.625882207914614,
+            "longitude": -82.39334211306954
+        }
+    },
+    {
+        "name": "Furnished Room in Large House",
+        "price_per_month": 924,
+        "duration": "6 months",
+        "contact": {
+            "email": "user87@example.com",
+            "phone": "(555) 160-9736"
+        },
+        "location": "190 University Ave, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.652481889255903,
+            "longitude": -82.32161099558034
+        }
+    },
+    {
+        "name": "Upgraded 2-Bedroom in Gated Community",
+        "price_per_month": 1251,
+        "duration": "3 months",
+        "contact": {
+            "email": "user88@example.com",
+            "phone": "(555) 894-7692"
+        },
+        "location": "321 Oak St, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.694630904454137,
+            "longitude": -82.3892038390542
+        }
+    },
+    {
+        "name": "Affordable Room in Shared Apartment",
+        "price_per_month": 854,
+        "duration": "8 months",
+        "contact": {
+            "email": "user89@example.com",
+            "phone": "(555) 653-4913"
+        },
+        "location": "751 Maple Rd, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.640525594175962,
+            "longitude": -82.30525879713926
+        }
+    },
+    {
+        "name": "Modern 3-Bedroom Home in Quiet Neighborhood",
+        "price_per_month": 1322,
+        "duration": "3 months",
+        "contact": {
+            "email": "user90@example.com",
+            "phone": "(555) 141-7775"
+        },
+        "location": "381 Pine St, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.647932242781437,
+            "longitude": -82.35400138499224
+        }
+    },
+    {
+        "name": "Charming Studio with Garden View",
+        "price_per_month": 1549,
+        "duration": "7 months",
+        "contact": {
+            "email": "user91@example.com",
+            "phone": "(555) 612-7782"
+        },
+        "location": "377 University Ave, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.61462504011532,
+            "longitude": -82.32065817493923
+        }
+    },
+    {
+        "name": "Large 1-Bedroom with High Ceilings",
+        "price_per_month": 1636,
+        "duration": "8 months",
+        "contact": {
+            "email": "user92@example.com",
+            "phone": "(555) 762-4151"
+        },
+        "location": "169 Main St, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.63664479783689,
+            "longitude": -82.39666269374851
+        }
+    },
+    {
+        "name": "Cozy Studio Near UF Campus",
+        "price_per_month": 1474,
+        "duration": "4 months",
+        "contact": {
+            "email": "user93@example.com",
+            "phone": "(555) 872-4915"
+        },
+        "location": "476 Maple Rd, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.6242228861528,
+            "longitude": -82.39015593685151
+        }
+    },
+    {
+        "name": "Affordable Room in Shared Apartment",
+        "price_per_month": 1386,
+        "duration": "11 months",
+        "contact": {
+            "email": "user94@example.com",
+            "phone": "(555) 838-7344"
+        },
+        "location": "198 Maple Rd, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.680658621743255,
+            "longitude": -82.30296194459689
+        }
+    },
+    {
+        "name": "Large 1-Bedroom with High Ceilings",
+        "price_per_month": 1049,
+        "duration": "11 months",
+        "contact": {
+            "email": "user95@example.com",
+            "phone": "(555) 813-9307"
+        },
+        "location": "270 University Ave, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.698690825793964,
+            "longitude": -82.3263719442741
+        }
+    },
+    {
+        "name": "Convenient 1-Bedroom Near Bus Stop",
+        "price_per_month": 1479,
+        "duration": "9 months",
+        "contact": {
+            "email": "user96@example.com",
+            "phone": "(555) 342-1677"
+        },
+        "location": "226 Pine St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.629555673440457,
+            "longitude": -82.30679240312152
+        }
+    },
+    {
+        "name": "Furnished Room in Large House",
+        "price_per_month": 1039,
+        "duration": "5 months",
+        "contact": {
+            "email": "user97@example.com",
+            "phone": "(555) 215-7312"
+        },
+        "location": "100 Main St, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.612724731004036,
+            "longitude": -82.33857997580981
+        }
+    },
+    {
+        "name": "Affordable Room in Shared Apartment",
+        "price_per_month": 984,
+        "duration": "4 months",
+        "contact": {
+            "email": "user98@example.com",
+            "phone": "(555) 266-2186"
+        },
+        "location": "478 Maple Rd, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.6153501196122,
+            "longitude": -82.37684529942092
+        }
+    },
+    {
+        "name": "Affordable Room in Shared Apartment",
+        "price_per_month": 1368,
+        "duration": "12 months",
+        "contact": {
+            "email": "user99@example.com",
+            "phone": "(555) 527-7856"
+        },
+        "location": "635 Oak St, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.674617191448142,
+            "longitude": -82.36340198617434
+        }
+    },
+    {
+        "name": "Cozy Studio Near UF Campus",
+        "price_per_month": 1627,
+        "duration": "3 months",
+        "contact": {
+            "email": "user100@example.com",
+            "phone": "(555) 506-3084"
+        },
+        "location": "488 Pine St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.601220694477774,
+            "longitude": -82.3594324092124
+        }
+    },
+    {
+        "name": "Convenient 1-Bedroom Near Bus Stop",
+        "price_per_month": 1395,
+        "duration": "8 months",
+        "contact": {
+            "email": "user101@example.com",
+            "phone": "(555) 530-8089"
+        },
+        "location": "770 University Ave, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.695561476361696,
+            "longitude": -82.34974828023402
+        }
+    },
+    {
+        "name": "Upgraded 2-Bedroom in Gated Community",
+        "price_per_month": 1434,
+        "duration": "7 months",
+        "contact": {
+            "email": "user102@example.com",
+            "phone": "(555) 729-6349"
+        },
+        "location": "869 Main St, Gainesville, FL 32609",
+        "coordinates": {
+            "latitude": 29.689212931648253,
+            "longitude": -82.31030365933455
+        }
+    },
+    {
+        "name": "Furnished Room in Large House",
+        "price_per_month": 901,
+        "duration": "9 months",
+        "contact": {
+            "email": "user103@example.com",
+            "phone": "(555) 888-7584"
+        },
+        "location": "580 Main St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.622427464829027,
+            "longitude": -82.3494367693001
+        }
+    },
+    {
+        "name": "Modern 3-Bedroom Home in Quiet Neighborhood",
+        "price_per_month": 1616,
+        "duration": "11 months",
+        "contact": {
+            "email": "user104@example.com",
+            "phone": "(555) 379-1135"
+        },
+        "location": "171 Oak St, Gainesville, FL 32609",
+        "coordinates": {
+            "latitude": 29.606190455802622,
+            "longitude": -82.30175389952004
+        }
+    },
+    {
+        "name": "Modern 3-Bedroom Home in Quiet Neighborhood",
+        "price_per_month": 818,
+        "duration": "4 months",
+        "contact": {
+            "email": "user105@example.com",
+            "phone": "(555) 426-2558"
+        },
+        "location": "693 Maple Rd, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.621592712340213,
+            "longitude": -82.39930903659844
+        }
+    },
+    {
+        "name": "Cozy Studio Near UF Campus",
+        "price_per_month": 1072,
+        "duration": "5 months",
+        "contact": {
+            "email": "user106@example.com",
+            "phone": "(555) 632-3803"
+        },
+        "location": "698 Maple Rd, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.64936858847492,
+            "longitude": -82.31730825976057
+        }
+    },
+    {
+        "name": "Charming Studio with Garden View",
+        "price_per_month": 1264,
+        "duration": "10 months",
+        "contact": {
+            "email": "user107@example.com",
+            "phone": "(555) 420-4368"
+        },
+        "location": "107 Pine St, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.607708006817624,
+            "longitude": -82.35914516052479
+        }
+    },
+    {
+        "name": "Upgraded 2-Bedroom in Gated Community",
+        "price_per_month": 1453,
+        "duration": "10 months",
+        "contact": {
+            "email": "user108@example.com",
+            "phone": "(555) 927-7956"
+        },
+        "location": "741 Maple Rd, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.638525843822205,
+            "longitude": -82.39179383316835
+        }
+    },
+    {
+        "name": "Modern 3-Bedroom Home in Quiet Neighborhood",
+        "price_per_month": 1278,
+        "duration": "11 months",
+        "contact": {
+            "email": "user109@example.com",
+            "phone": "(555) 317-3657"
+        },
+        "location": "977 Pine St, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.662238507216777,
+            "longitude": -82.32100257956765
+        }
+    },
+    {
+        "name": "Cozy Studio Near UF Campus",
+        "price_per_month": 1371,
+        "duration": "12 months",
+        "contact": {
+            "email": "user110@example.com",
+            "phone": "(555) 920-1007"
+        },
+        "location": "588 Pine St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.69377177980177,
+            "longitude": -82.36427835232402
+        }
+    },
+    {
+        "name": "Spacious 1-Bedroom with Pool Access",
+        "price_per_month": 869,
+        "duration": "6 months",
+        "contact": {
+            "email": "user111@example.com",
+            "phone": "(555) 237-9795"
+        },
+        "location": "965 Pine St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.654918768013836,
+            "longitude": -82.3955809452227
+        }
+    },
+    {
+        "name": "Affordable Room in Shared Apartment",
+        "price_per_month": 1761,
+        "duration": "5 months",
+        "contact": {
+            "email": "user112@example.com",
+            "phone": "(555) 721-1952"
+        },
+        "location": "932 University Ave, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.659564613577817,
+            "longitude": -82.32884809674927
+        }
+    },
+    {
+        "name": "Spacious 1-Bedroom with Pool Access",
+        "price_per_month": 1543,
+        "duration": "4 months",
+        "contact": {
+            "email": "user113@example.com",
+            "phone": "(555) 229-3247"
+        },
+        "location": "632 Maple Rd, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.652862535896904,
+            "longitude": -82.30529191792607
+        }
+    },
+    {
+        "name": "Charming Studio with Garden View",
+        "price_per_month": 1227,
+        "duration": "11 months",
+        "contact": {
+            "email": "user114@example.com",
+            "phone": "(555) 361-2296"
+        },
+        "location": "867 Oak St, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.678033730357306,
+            "longitude": -82.37987226160526
+        }
+    },
+    {
+        "name": "Spacious 1-Bedroom with Pool Access",
+        "price_per_month": 1085,
+        "duration": "4 months",
+        "contact": {
+            "email": "user115@example.com",
+            "phone": "(555) 666-1380"
+        },
+        "location": "437 Main St, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.617394157948887,
+            "longitude": -82.37787684579136
+        }
+    },
+    {
+        "name": "Spacious 1-Bedroom with Pool Access",
+        "price_per_month": 1525,
+        "duration": "8 months",
+        "contact": {
+            "email": "user116@example.com",
+            "phone": "(555) 855-6114"
+        },
+        "location": "171 Main St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.610213752938506,
+            "longitude": -82.35234170712944
+        }
+    },
+    {
+        "name": "Large 1-Bedroom with High Ceilings",
+        "price_per_month": 1747,
+        "duration": "5 months",
+        "contact": {
+            "email": "user117@example.com",
+            "phone": "(555) 513-9682"
+        },
+        "location": "543 Main St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.64710267963911,
+            "longitude": -82.37297995625266
+        }
+    },
+    {
+        "name": "Furnished Room in Large House",
+        "price_per_month": 1406,
+        "duration": "11 months",
+        "contact": {
+            "email": "user118@example.com",
+            "phone": "(555) 934-8155"
+        },
+        "location": "205 Pine St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.61036608272768,
+            "longitude": -82.37506710477325
+        }
+    },
+    {
+        "name": "Charming Studio with Garden View",
+        "price_per_month": 1287,
+        "duration": "9 months",
+        "contact": {
+            "email": "user119@example.com",
+            "phone": "(555) 411-5749"
+        },
+        "location": "939 Maple Rd, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.667243233935576,
+            "longitude": -82.33573730929241
+        }
+    },
+    {
+        "name": "Spacious 1-Bedroom with Pool Access",
+        "price_per_month": 966,
+        "duration": "10 months",
+        "contact": {
+            "email": "user120@example.com",
+            "phone": "(555) 916-6663"
+        },
+        "location": "842 Maple Rd, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.614648735341778,
+            "longitude": -82.39769002441979
+        }
+    },
+    {
+        "name": "Charming Studio with Garden View",
+        "price_per_month": 801,
+        "duration": "11 months",
+        "contact": {
+            "email": "user121@example.com",
+            "phone": "(555) 375-2596"
+        },
+        "location": "124 Maple Rd, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.645746761098138,
+            "longitude": -82.30693793337676
+        }
+    },
+    {
+        "name": "Modern 3-Bedroom Home in Quiet Neighborhood",
+        "price_per_month": 937,
+        "duration": "4 months",
+        "contact": {
+            "email": "user122@example.com",
+            "phone": "(555) 873-2167"
+        },
+        "location": "481 Oak St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.647537374468584,
+            "longitude": -82.36433958935486
+        }
+    },
+    {
+        "name": "Upgraded 2-Bedroom in Gated Community",
+        "price_per_month": 1792,
+        "duration": "7 months",
+        "contact": {
+            "email": "user123@example.com",
+            "phone": "(555) 466-8797"
+        },
+        "location": "479 University Ave, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.660985083349832,
+            "longitude": -82.31646829424872
+        }
+    },
+    {
+        "name": "Cozy Studio Near UF Campus",
+        "price_per_month": 1271,
+        "duration": "9 months",
+        "contact": {
+            "email": "user124@example.com",
+            "phone": "(555) 610-1822"
+        },
+        "location": "538 University Ave, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.678914419383826,
+            "longitude": -82.31634135511261
+        }
+    },
+    {
+        "name": "Convenient 1-Bedroom Near Bus Stop",
+        "price_per_month": 1626,
+        "duration": "10 months",
+        "contact": {
+            "email": "user125@example.com",
+            "phone": "(555) 763-5103"
+        },
+        "location": "301 Oak St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.629919484832858,
+            "longitude": -82.3258211857209
+        }
+    },
+    {
+        "name": "Modern 3-Bedroom Home in Quiet Neighborhood",
+        "price_per_month": 1563,
+        "duration": "4 months",
+        "contact": {
+            "email": "user126@example.com",
+            "phone": "(555) 313-5529"
+        },
+        "location": "682 Oak St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.61689194404687,
+            "longitude": -82.3670178640646
+        }
+    },
+    {
+        "name": "Furnished Room in Large House",
+        "price_per_month": 907,
+        "duration": "9 months",
+        "contact": {
+            "email": "user127@example.com",
+            "phone": "(555) 953-2001"
+        },
+        "location": "538 Maple Rd, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.6523990900583,
+            "longitude": -82.37582982282152
+        }
+    },
+    {
+        "name": "Furnished Room in Large House",
+        "price_per_month": 1703,
+        "duration": "10 months",
+        "contact": {
+            "email": "user128@example.com",
+            "phone": "(555) 886-5741"
+        },
+        "location": "692 University Ave, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.66919179889597,
+            "longitude": -82.36246211446597
+        }
+    },
+    {
+        "name": "Furnished Room in Large House",
+        "price_per_month": 1572,
+        "duration": "8 months",
+        "contact": {
+            "email": "user129@example.com",
+            "phone": "(555) 538-6237"
+        },
+        "location": "335 Pine St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.62824709478355,
+            "longitude": -82.39399835575652
+        }
+    },
+    {
+        "name": "Convenient 1-Bedroom Near Bus Stop",
+        "price_per_month": 1628,
+        "duration": "7 months",
+        "contact": {
+            "email": "user130@example.com",
+            "phone": "(555) 978-3880"
+        },
+        "location": "799 Main St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.609395508076712,
+            "longitude": -82.31028422721052
+        }
+    },
+    {
+        "name": "Convenient 1-Bedroom Near Bus Stop",
+        "price_per_month": 1437,
+        "duration": "3 months",
+        "contact": {
+            "email": "user131@example.com",
+            "phone": "(555) 527-9357"
+        },
+        "location": "165 Pine St, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.629632080823196,
+            "longitude": -82.33388954518088
+        }
+    },
+    {
+        "name": "Spacious 1-Bedroom with Pool Access",
+        "price_per_month": 1300,
+        "duration": "3 months",
+        "contact": {
+            "email": "user132@example.com",
+            "phone": "(555) 809-5863"
+        },
+        "location": "923 Oak St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.61887009691675,
+            "longitude": -82.36400263408242
+        }
+    },
+    {
+        "name": "Furnished Room in Large House",
+        "price_per_month": 1798,
+        "duration": "9 months",
+        "contact": {
+            "email": "user133@example.com",
+            "phone": "(555) 713-4547"
+        },
+        "location": "892 Pine St, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.695895416905003,
+            "longitude": -82.37458300872588
+        }
+    },
+    {
+        "name": "Sunny 2-Bedroom Apartment in Downtown",
+        "price_per_month": 1755,
+        "duration": "3 months",
+        "contact": {
+            "email": "user134@example.com",
+            "phone": "(555) 472-9469"
+        },
+        "location": "514 Main St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.640132561439486,
+            "longitude": -82.32624343344447
+        }
+    },
+    {
+        "name": "Sunny 2-Bedroom Apartment in Downtown",
+        "price_per_month": 1096,
+        "duration": "6 months",
+        "contact": {
+            "email": "user135@example.com",
+            "phone": "(555) 907-9601"
+        },
+        "location": "887 Oak St, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.66145748728054,
+            "longitude": -82.33164467678723
+        }
+    },
+    {
+        "name": "Sunny 2-Bedroom Apartment in Downtown",
+        "price_per_month": 1671,
+        "duration": "7 months",
+        "contact": {
+            "email": "user136@example.com",
+            "phone": "(555) 408-2325"
+        },
+        "location": "851 Pine St, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.63660703852141,
+            "longitude": -82.35806993714947
+        }
+    },
+    {
+        "name": "Convenient 1-Bedroom Near Bus Stop",
+        "price_per_month": 1264,
+        "duration": "5 months",
+        "contact": {
+            "email": "user137@example.com",
+            "phone": "(555) 883-8849"
+        },
+        "location": "711 Maple Rd, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.65919602431674,
+            "longitude": -82.30350921300769
+        }
+    },
+    {
+        "name": "Modern 3-Bedroom Home in Quiet Neighborhood",
+        "price_per_month": 845,
+        "duration": "4 months",
+        "contact": {
+            "email": "user138@example.com",
+            "phone": "(555) 901-1304"
+        },
+        "location": "750 Main St, Gainesville, FL 32609",
+        "coordinates": {
+            "latitude": 29.60688971008913,
+            "longitude": -82.30082248257474
+        }
+    },
+    {
+        "name": "Charming Studio with Garden View",
+        "price_per_month": 1125,
+        "duration": "8 months",
+        "contact": {
+            "email": "user139@example.com",
+            "phone": "(555) 953-6136"
+        },
+        "location": "489 Main St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.64600105840996,
+            "longitude": -82.320673864868
+        }
+    },
+    {
+        "name": "Spacious 1-Bedroom with Pool Access",
+        "price_per_month": 1792,
+        "duration": "5 months",
+        "contact": {
+            "email": "user140@example.com",
+            "phone": "(555) 683-1680"
+        },
+        "location": "233 Maple Rd, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.653086489629718,
+            "longitude": -82.35395841775609
+        }
+    },
+    {
+        "name": "Spacious 1-Bedroom with Pool Access",
+        "price_per_month": 1023,
+        "duration": "12 months",
+        "contact": {
+            "email": "user141@example.com",
+            "phone": "(555) 566-4922"
+        },
+        "location": "310 University Ave, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.63073262672515,
+            "longitude": -82.33156650243859
+        }
+    },
+    {
+        "name": "Charming Studio with Garden View",
+        "price_per_month": 1014,
+        "duration": "7 months",
+        "contact": {
+            "email": "user142@example.com",
+            "phone": "(555) 977-6454"
+        },
+        "location": "446 Main St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.69275644890573,
+            "longitude": -82.32742910934523
+        }
+    },
+    {
+        "name": "Charming Studio with Garden View",
+        "price_per_month": 1661,
+        "duration": "6 months",
+        "contact": {
+            "email": "user143@example.com",
+            "phone": "(555) 945-6380"
+        },
+        "location": "294 Oak St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.636354939168154,
+            "longitude": -82.34105192212243
+        }
+    },
+    {
+        "name": "Sunny 2-Bedroom Apartment in Downtown",
+        "price_per_month": 894,
+        "duration": "10 months",
+        "contact": {
+            "email": "user144@example.com",
+            "phone": "(555) 768-4490"
+        },
+        "location": "509 University Ave, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.683160117084242,
+            "longitude": -82.32146626506287
+        }
+    },
+    {
+        "name": "Furnished Room in Large House",
+        "price_per_month": 1689,
+        "duration": "10 months",
+        "contact": {
+            "email": "user145@example.com",
+            "phone": "(555) 735-1937"
+        },
+        "location": "755 Main St, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.654160913976863,
+            "longitude": -82.3198790985915
+        }
+    },
+    {
+        "name": "Convenient 1-Bedroom Near Bus Stop",
+        "price_per_month": 1239,
+        "duration": "12 months",
+        "contact": {
+            "email": "user146@example.com",
+            "phone": "(555) 894-9087"
+        },
+        "location": "666 University Ave, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.615360598789625,
+            "longitude": -82.33303705771152
+        }
+    },
+    {
+        "name": "Cozy Studio Near UF Campus",
+        "price_per_month": 1551,
+        "duration": "8 months",
+        "contact": {
+            "email": "user147@example.com",
+            "phone": "(555) 579-5301"
+        },
+        "location": "597 Pine St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.604769389557593,
+            "longitude": -82.35746912468387
+        }
+    },
+    {
+        "name": "Spacious 1-Bedroom with Pool Access",
+        "price_per_month": 920,
+        "duration": "10 months",
+        "contact": {
+            "email": "user148@example.com",
+            "phone": "(555) 674-1338"
+        },
+        "location": "528 Oak St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.617042257345947,
+            "longitude": -82.36316797536543
+        }
+    },
+    {
+        "name": "Large 1-Bedroom with High Ceilings",
+        "price_per_month": 1466,
+        "duration": "9 months",
+        "contact": {
+            "email": "user149@example.com",
+            "phone": "(555) 713-5797"
+        },
+        "location": "842 University Ave, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.663330927970506,
+            "longitude": -82.33081569760894
+        }
+    },
+    {
+        "name": "Affordable Room in Shared Apartment",
+        "price_per_month": 1692,
+        "duration": "11 months",
+        "contact": {
+            "email": "user150@example.com",
+            "phone": "(555) 146-2937"
+        },
+        "location": "910 Maple Rd, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.65346760885614,
+            "longitude": -82.39260770789089
+        }
+    },
+    {
+        "name": "Large 1-Bedroom with High Ceilings",
+        "price_per_month": 1719,
+        "duration": "8 months",
+        "contact": {
+            "email": "user151@example.com",
+            "phone": "(555) 410-1766"
+        },
+        "location": "423 Oak St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.677869869469617,
+            "longitude": -82.32406545436596
+        }
+    },
+    {
+        "name": "Large 1-Bedroom with High Ceilings",
+        "price_per_month": 1356,
+        "duration": "12 months",
+        "contact": {
+            "email": "user152@example.com",
+            "phone": "(555) 960-9678"
+        },
+        "location": "229 Pine St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.62883500864124,
+            "longitude": -82.30082125485974
+        }
+    },
+    {
+        "name": "Convenient 1-Bedroom Near Bus Stop",
+        "price_per_month": 1472,
+        "duration": "6 months",
+        "contact": {
+            "email": "user153@example.com",
+            "phone": "(555) 881-9167"
+        },
+        "location": "797 Pine St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.677005344612944,
+            "longitude": -82.39511377553653
+        }
+    },
+    {
+        "name": "Large 1-Bedroom with High Ceilings",
+        "price_per_month": 1567,
+        "duration": "12 months",
+        "contact": {
+            "email": "user154@example.com",
+            "phone": "(555) 425-2972"
+        },
+        "location": "761 Pine St, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.679318856228104,
+            "longitude": -82.39526548194951
+        }
+    },
+    {
+        "name": "Charming Studio with Garden View",
+        "price_per_month": 1684,
+        "duration": "9 months",
+        "contact": {
+            "email": "user155@example.com",
+            "phone": "(555) 677-9316"
+        },
+        "location": "254 Maple Rd, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.662244307931957,
+            "longitude": -82.39861257638331
+        }
+    },
+    {
+        "name": "Charming Studio with Garden View",
+        "price_per_month": 1563,
+        "duration": "3 months",
+        "contact": {
+            "email": "user156@example.com",
+            "phone": "(555) 660-4735"
+        },
+        "location": "943 Maple Rd, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.654370145852848,
+            "longitude": -82.363462037376
+        }
+    },
+    {
+        "name": "Upgraded 2-Bedroom in Gated Community",
+        "price_per_month": 950,
+        "duration": "9 months",
+        "contact": {
+            "email": "user157@example.com",
+            "phone": "(555) 130-7679"
+        },
+        "location": "919 Pine St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.668372540351303,
+            "longitude": -82.30106310990011
+        }
+    },
+    {
+        "name": "Affordable Room in Shared Apartment",
+        "price_per_month": 1252,
+        "duration": "5 months",
+        "contact": {
+            "email": "user158@example.com",
+            "phone": "(555) 818-7401"
+        },
+        "location": "435 Maple Rd, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.632861001953252,
+            "longitude": -82.33895881662173
+        }
+    },
+    {
+        "name": "Large 1-Bedroom with High Ceilings",
+        "price_per_month": 1147,
+        "duration": "5 months",
+        "contact": {
+            "email": "user159@example.com",
+            "phone": "(555) 759-6138"
+        },
+        "location": "377 Pine St, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.690614064568624,
+            "longitude": -82.34837972271131
+        }
+    },
+    {
+        "name": "Spacious 1-Bedroom with Pool Access",
+        "price_per_month": 1211,
+        "duration": "7 months",
+        "contact": {
+            "email": "user160@example.com",
+            "phone": "(555) 217-5945"
+        },
+        "location": "129 University Ave, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.60123886901379,
+            "longitude": -82.3302607507695
+        }
+    },
+    {
+        "name": "Upgraded 2-Bedroom in Gated Community",
+        "price_per_month": 1784,
+        "duration": "9 months",
+        "contact": {
+            "email": "user161@example.com",
+            "phone": "(555) 713-9503"
+        },
+        "location": "189 Main St, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.63744190949831,
+            "longitude": -82.3351343313488
+        }
+    },
+    {
+        "name": "Sunny 2-Bedroom Apartment in Downtown",
+        "price_per_month": 850,
+        "duration": "11 months",
+        "contact": {
+            "email": "user162@example.com",
+            "phone": "(555) 323-4876"
+        },
+        "location": "885 Main St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.691134227379813,
+            "longitude": -82.3796095456083
+        }
+    },
+    {
+        "name": "Charming Studio with Garden View",
+        "price_per_month": 1448,
+        "duration": "5 months",
+        "contact": {
+            "email": "user163@example.com",
+            "phone": "(555) 178-6001"
+        },
+        "location": "757 Pine St, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.6545109245559,
+            "longitude": -82.32724889436922
+        }
+    },
+    {
+        "name": "Convenient 1-Bedroom Near Bus Stop",
+        "price_per_month": 1324,
+        "duration": "4 months",
+        "contact": {
+            "email": "user164@example.com",
+            "phone": "(555) 513-3248"
+        },
+        "location": "357 Pine St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.610970846180567,
+            "longitude": -82.38481652731132
+        }
+    },
+    {
+        "name": "Charming Studio with Garden View",
+        "price_per_month": 1464,
+        "duration": "6 months",
+        "contact": {
+            "email": "user165@example.com",
+            "phone": "(555) 959-9480"
+        },
+        "location": "531 Oak St, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.67568338818566,
+            "longitude": -82.37056688140345
+        }
+    },
+    {
+        "name": "Furnished Room in Large House",
+        "price_per_month": 1422,
+        "duration": "7 months",
+        "contact": {
+            "email": "user166@example.com",
+            "phone": "(555) 957-7176"
+        },
+        "location": "925 University Ave, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.632472606881787,
+            "longitude": -82.30133094106166
+        }
+    },
+    {
+        "name": "Affordable Room in Shared Apartment",
+        "price_per_month": 1255,
+        "duration": "8 months",
+        "contact": {
+            "email": "user167@example.com",
+            "phone": "(555) 872-1856"
+        },
+        "location": "906 Pine St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.69000894011479,
+            "longitude": -82.30402141703087
+        }
+    },
+    {
+        "name": "Charming Studio with Garden View",
+        "price_per_month": 1004,
+        "duration": "7 months",
+        "contact": {
+            "email": "user168@example.com",
+            "phone": "(555) 969-2279"
+        },
+        "location": "748 Pine St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.673332477480262,
+            "longitude": -82.34837046805558
+        }
+    },
+    {
+        "name": "Cozy Studio Near UF Campus",
+        "price_per_month": 1079,
+        "duration": "6 months",
+        "contact": {
+            "email": "user169@example.com",
+            "phone": "(555) 210-2548"
+        },
+        "location": "412 Oak St, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.660546100616468,
+            "longitude": -82.34123164885462
+        }
+    },
+    {
+        "name": "Spacious 1-Bedroom with Pool Access",
+        "price_per_month": 845,
+        "duration": "3 months",
+        "contact": {
+            "email": "user170@example.com",
+            "phone": "(555) 785-8576"
+        },
+        "location": "660 Main St, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.60501002934213,
+            "longitude": -82.36319691128242
+        }
+    },
+    {
+        "name": "Convenient 1-Bedroom Near Bus Stop",
+        "price_per_month": 848,
+        "duration": "9 months",
+        "contact": {
+            "email": "user171@example.com",
+            "phone": "(555) 793-4418"
+        },
+        "location": "207 Oak St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.694987222955373,
+            "longitude": -82.30573839890852
+        }
+    },
+    {
+        "name": "Furnished Room in Large House",
+        "price_per_month": 1788,
+        "duration": "8 months",
+        "contact": {
+            "email": "user172@example.com",
+            "phone": "(555) 786-3073"
+        },
+        "location": "284 Pine St, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.696570433357245,
+            "longitude": -82.30579418417942
+        }
+    },
+    {
+        "name": "Modern 3-Bedroom Home in Quiet Neighborhood",
+        "price_per_month": 1486,
+        "duration": "5 months",
+        "contact": {
+            "email": "user173@example.com",
+            "phone": "(555) 563-4392"
+        },
+        "location": "345 Maple Rd, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.659734580694987,
+            "longitude": -82.3884857839976
+        }
+    },
+    {
+        "name": "Charming Studio with Garden View",
+        "price_per_month": 1043,
+        "duration": "5 months",
+        "contact": {
+            "email": "user174@example.com",
+            "phone": "(555) 406-5498"
+        },
+        "location": "201 University Ave, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.64354618315162,
+            "longitude": -82.3462230407181
+        }
+    },
+    {
+        "name": "Convenient 1-Bedroom Near Bus Stop",
+        "price_per_month": 1069,
+        "duration": "6 months",
+        "contact": {
+            "email": "user175@example.com",
+            "phone": "(555) 777-3802"
+        },
+        "location": "329 Pine St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.649596227252488,
+            "longitude": -82.3105589168869
+        }
+    },
+    {
+        "name": "Charming Studio with Garden View",
+        "price_per_month": 1508,
+        "duration": "5 months",
+        "contact": {
+            "email": "user176@example.com",
+            "phone": "(555) 672-6151"
+        },
+        "location": "195 Main St, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.626608790855073,
+            "longitude": -82.32478385277187
+        }
+    },
+    {
+        "name": "Convenient 1-Bedroom Near Bus Stop",
+        "price_per_month": 1384,
+        "duration": "10 months",
+        "contact": {
+            "email": "user177@example.com",
+            "phone": "(555) 206-2757"
+        },
+        "location": "420 Oak St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.6154800595787,
+            "longitude": -82.35450921540452
+        }
+    },
+    {
+        "name": "Affordable Room in Shared Apartment",
+        "price_per_month": 1463,
+        "duration": "3 months",
+        "contact": {
+            "email": "user178@example.com",
+            "phone": "(555) 574-9236"
+        },
+        "location": "268 Main St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.605522160589004,
+            "longitude": -82.34518237695411
+        }
+    },
+    {
+        "name": "Modern 3-Bedroom Home in Quiet Neighborhood",
+        "price_per_month": 1189,
+        "duration": "6 months",
+        "contact": {
+            "email": "user179@example.com",
+            "phone": "(555) 760-8341"
+        },
+        "location": "214 Main St, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.6946956463612,
+            "longitude": -82.39762534319512
+        }
+    },
+    {
+        "name": "Furnished Room in Large House",
+        "price_per_month": 1540,
+        "duration": "6 months",
+        "contact": {
+            "email": "user180@example.com",
+            "phone": "(555) 639-6300"
+        },
+        "location": "660 Pine St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.640998771162653,
+            "longitude": -82.3328049700352
+        }
+    },
+    {
+        "name": "Sunny 2-Bedroom Apartment in Downtown",
+        "price_per_month": 1243,
+        "duration": "9 months",
+        "contact": {
+            "email": "user181@example.com",
+            "phone": "(555) 811-6968"
+        },
+        "location": "912 University Ave, Gainesville, FL 32609",
+        "coordinates": {
+            "latitude": 29.65096756579681,
+            "longitude": -82.35703552447369
+        }
+    },
+    {
+        "name": "Modern 3-Bedroom Home in Quiet Neighborhood",
+        "price_per_month": 832,
+        "duration": "4 months",
+        "contact": {
+            "email": "user182@example.com",
+            "phone": "(555) 224-5286"
+        },
+        "location": "317 Pine St, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.686730846344027,
+            "longitude": -82.35717581258467
+        }
+    },
+    {
+        "name": "Large 1-Bedroom with High Ceilings",
+        "price_per_month": 1055,
+        "duration": "5 months",
+        "contact": {
+            "email": "user183@example.com",
+            "phone": "(555) 235-5550"
+        },
+        "location": "902 University Ave, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.66688817657037,
+            "longitude": -82.36166090683997
+        }
+    },
+    {
+        "name": "Upgraded 2-Bedroom in Gated Community",
+        "price_per_month": 1360,
+        "duration": "10 months",
+        "contact": {
+            "email": "user184@example.com",
+            "phone": "(555) 587-3021"
+        },
+        "location": "946 Oak St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.63586740341073,
+            "longitude": -82.32784945363915
+        }
+    },
+    {
+        "name": "Upgraded 2-Bedroom in Gated Community",
+        "price_per_month": 1760,
+        "duration": "4 months",
+        "contact": {
+            "email": "user185@example.com",
+            "phone": "(555) 898-2692"
+        },
+        "location": "613 Main St, Gainesville, FL 32609",
+        "coordinates": {
+            "latitude": 29.669163236613024,
+            "longitude": -82.35727210416572
+        }
+    },
+    {
+        "name": "Spacious 1-Bedroom with Pool Access",
+        "price_per_month": 1652,
+        "duration": "9 months",
+        "contact": {
+            "email": "user186@example.com",
+            "phone": "(555) 507-4619"
+        },
+        "location": "127 Pine St, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.6640680779564,
+            "longitude": -82.32265896338065
+        }
+    },
+    {
+        "name": "Affordable Room in Shared Apartment",
+        "price_per_month": 1472,
+        "duration": "5 months",
+        "contact": {
+            "email": "user187@example.com",
+            "phone": "(555) 894-9229"
+        },
+        "location": "330 University Ave, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.630239492850357,
+            "longitude": -82.36056604955523
+        }
+    },
+    {
+        "name": "Upgraded 2-Bedroom in Gated Community",
+        "price_per_month": 1640,
+        "duration": "4 months",
+        "contact": {
+            "email": "user188@example.com",
+            "phone": "(555) 359-1238"
+        },
+        "location": "857 Maple Rd, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.66102498925843,
+            "longitude": -82.35474250999495
+        }
+    },
+    {
+        "name": "Furnished Room in Large House",
+        "price_per_month": 893,
+        "duration": "7 months",
+        "contact": {
+            "email": "user189@example.com",
+            "phone": "(555) 748-9671"
+        },
+        "location": "989 Main St, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.667594053309468,
+            "longitude": -82.38193372126787
+        }
+    },
+    {
+        "name": "Spacious 1-Bedroom with Pool Access",
+        "price_per_month": 1207,
+        "duration": "7 months",
+        "contact": {
+            "email": "user190@example.com",
+            "phone": "(555) 247-6433"
+        },
+        "location": "426 Oak St, Gainesville, FL 32609",
+        "coordinates": {
+            "latitude": 29.602260715761346,
+            "longitude": -82.32125577105857
+        }
+    },
+    {
+        "name": "Spacious 1-Bedroom with Pool Access",
+        "price_per_month": 1237,
+        "duration": "10 months",
+        "contact": {
+            "email": "user191@example.com",
+            "phone": "(555) 761-5204"
+        },
+        "location": "497 Pine St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.676611567009363,
+            "longitude": -82.35432264756335
+        }
+    },
+    {
+        "name": "Furnished Room in Large House",
+        "price_per_month": 835,
+        "duration": "11 months",
+        "contact": {
+            "email": "user192@example.com",
+            "phone": "(555) 629-5966"
+        },
+        "location": "788 Main St, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.699542243011795,
+            "longitude": -82.35460715034681
+        }
+    },
+    {
+        "name": "Convenient 1-Bedroom Near Bus Stop",
+        "price_per_month": 1404,
+        "duration": "7 months",
+        "contact": {
+            "email": "user193@example.com",
+            "phone": "(555) 236-5620"
+        },
+        "location": "954 Oak St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.601376297131594,
+            "longitude": -82.3024668383593
+        }
+    },
+    {
+        "name": "Large 1-Bedroom with High Ceilings",
+        "price_per_month": 849,
+        "duration": "9 months",
+        "contact": {
+            "email": "user194@example.com",
+            "phone": "(555) 110-6586"
+        },
+        "location": "253 Pine St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.622942572918525,
+            "longitude": -82.39444673964947
+        }
+    },
+    {
+        "name": "Furnished Room in Large House",
+        "price_per_month": 1733,
+        "duration": "8 months",
+        "contact": {
+            "email": "user195@example.com",
+            "phone": "(555) 594-6107"
+        },
+        "location": "858 Pine St, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.686097858003926,
+            "longitude": -82.31053620237469
+        }
+    },
+    {
+        "name": "Sunny 2-Bedroom Apartment in Downtown",
+        "price_per_month": 1124,
+        "duration": "6 months",
+        "contact": {
+            "email": "user196@example.com",
+            "phone": "(555) 162-8873"
+        },
+        "location": "109 Maple Rd, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.61293752004417,
+            "longitude": -82.31606774591086
+        }
+    },
+    {
+        "name": "Charming Studio with Garden View",
+        "price_per_month": 865,
+        "duration": "5 months",
+        "contact": {
+            "email": "user197@example.com",
+            "phone": "(555) 434-1784"
+        },
+        "location": "303 Main St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.63885576236989,
+            "longitude": -82.32158177743841
+        }
+    },
+    {
+        "name": "Convenient 1-Bedroom Near Bus Stop",
+        "price_per_month": 929,
+        "duration": "8 months",
+        "contact": {
+            "email": "user198@example.com",
+            "phone": "(555) 503-5132"
+        },
+        "location": "335 Oak St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.693606515898836,
+            "longitude": -82.30394313275437
+        }
+    },
+    {
+        "name": "Modern 3-Bedroom Home in Quiet Neighborhood",
+        "price_per_month": 1595,
+        "duration": "12 months",
+        "contact": {
+            "email": "user199@example.com",
+            "phone": "(555) 461-1635"
+        },
+        "location": "675 Maple Rd, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.621054842334694,
+            "longitude": -82.33066773590564
+        }
+    }
+]
