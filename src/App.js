@@ -10,7 +10,8 @@ import MyListings from './MyListings.js';
 import Profile from './Profile.js';
 
 function App() {
-  const {loginWithRedirect, isAuthenticated} = useAuth0();
+  const { loginWithRedirect, isAuthenticated } = useAuth0();
+
   return (
     <Router>
       <div className="App">
@@ -28,7 +29,7 @@ function App() {
               <Route path="/profile" element={<Profile />} />
         </Routes>
       </div>
-    </Router>  
+    </Router>
   );
 }
 
