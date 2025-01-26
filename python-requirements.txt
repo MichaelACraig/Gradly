@@ -1,6 +1,12 @@
-bs4==0.0.2
-selenium==4.25.0
-pyautogui==0.9.54
-python-dotenv==1.0.1
-fake-useragent==2.0.3
-flask==3.1.0
+# WebScraper
+bs4
+selenium
+pyautogui
+python-dotenv
+fake-useragent
+
+# Flask Backend
+flask
+flask-sqlalchemy
+psycopg2-binary
+pymongo

@@ -1,0 +1,6 @@
+# INSERT AWS DATABASE INFO HERE. NEED TO INPUT DATABASE_URI INTO .ENV
+import os
+
+class Config:
+    SQLALCHEMY_DATABASE_URI = os.getenv("MONGO_URI")
+    SQLALCHEMY_TRACK_MODIFICATIONS = False  # Avoids unnecessary warnings
