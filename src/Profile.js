@@ -6,11 +6,11 @@ const Profile = () => {
     const { user, isAuthenticated, isLoading } = useAuth0();
 
     if (isLoading) {
-        return <div>Loading...</div>;
+        return <h3>Loading...</h3>;
     }
 
     if (!isAuthenticated) {
-        return <div>Please log in to view your profile.</div>;
+        return <h3>Please log in to view your profile.</h3>;
     }
 
     return (

@@ -16,10 +16,6 @@ function App() {
     <Router>
       <div className="App">
         <Header />
-        {/* <main className="App-main">
-            
-        </main> */}
-        {/* Router for navigating to Login after clicking button*/}
         <Routes>
               <Route path = '/login' element={<Login />} />
               <Route path = '/logout' element={<LogOut />} />
