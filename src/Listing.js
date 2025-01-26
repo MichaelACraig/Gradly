@@ -23,6 +23,7 @@ const Listing = ({ listing }) => {
           />
         ))}
       </div>
+      <button>Listing Details</button>
     </div>
   );
 };

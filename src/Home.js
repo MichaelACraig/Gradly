@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import MapView from "./MapView";
 import SearchFilters from "./SearchFilters";
-import ListingDetails from "./ListingDetails";
 import Listings from "./Listings";
 import "./Home.css";
 
@@ -65,7 +64,6 @@ const Home = () => {
         </div>
         <div className="listing-details">
           <Listings/>
-          {/* <ListingDetails listings={listings} loading={loading} /> */}
         </div>
       </div>
     </div>
