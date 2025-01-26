@@ -7,6 +7,6 @@ fake-useragent
 
 # Flask Backend
 flask
-flask-sqlalchemy
+flask-pymongo
 psycopg2-binary
 pymongo
