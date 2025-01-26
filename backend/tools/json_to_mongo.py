@@ -9,7 +9,7 @@ load_dotenv()
 
 # Connect to MongoDB
 MONGO_URI = os.getenv('MONGO_URI')
-client = pymongo.MongoClient(MONGO_URI)
+client = MongoClient(MONGO_URI)
 db = client.Database
 collection = db.listingData
 requesting = []

@@ -8,6 +8,7 @@ import Login from './Login.js';
 import Home from './Home.js';
 import MyListings from './MyListings.js';
 import Profile from './Profile.js';
+import Listings from './Listings.js';
 
 function App() {
   const { loginWithRedirect, isAuthenticated } = useAuth0();
@@ -26,6 +27,7 @@ function App() {
               <Route path="/contacts" element={<Contacts />} />
               <Route path="/home" element={<Home />} />
               <Route path="/mylistings" element={<MyListings />} />
+              <Route path="/listings" element={<Listings />} />
               <Route path="/profile" element={<Profile />} />
         </Routes>
       </div>

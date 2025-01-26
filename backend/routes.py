@@ -1,9 +1,24 @@
 from flask import Blueprint, request, jsonify
 from werkzeug.security import generate_password_hash, check_password_hash
+from pymongo import MongoClient
 from datetime import datetime
+import os
 
 home_routes = Blueprint('home_routes', __name__)
 user_routes = Blueprint('user_routes', __name__)
+
+MONGO_URI = os.getenv('MONGO_URI')
+client = MongoClient(MONGO_URI)
+db = client['Database']
+collection = db['listingData']
+
+@home_routes.route("/listings", methods=["GET"])
+def get_listings():
+    try:
+        listings = list(collection.find({}, {"_id": 0}))  # Exclude the MongoDB "_id" field
+        return jsonify(listings), 200
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
 
 # Home page routing for all it needs upon API call
 @home_routes.route('/')
