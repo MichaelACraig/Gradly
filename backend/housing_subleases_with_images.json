@@ -1,0 +1,3602 @@
+[
+    {
+        "name": "Apartment 1 Downtown",
+        "price_per_month": 866,
+        "duration": "7 months",
+        "contact": {
+            "email": "user1@ufl.edu",
+            "phone": "(555) 262-2174"
+        },
+        "location": "641 Main St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.6596,
+            "longitude": -82.3496
+        },
+        "image_paths": [
+            "street_data/apartment_0405.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 2 Downtown",
+        "price_per_month": 1437,
+        "duration": "12 months",
+        "contact": {
+            "email": "user2@ufl.edu",
+            "phone": "(555) 730-8745"
+        },
+        "location": "666 Main St, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.6635,
+            "longitude": -82.3307
+        },
+        "image_paths": [
+            "street_data/apartment_0870.jpg",
+            "street_data/apartment_0529.jpg",
+            "street_data/apartment_0378.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 3 Downtown",
+        "price_per_month": 1386,
+        "duration": "7 months",
+        "contact": {
+            "email": "user3@ufl.edu",
+            "phone": "(555) 321-5943"
+        },
+        "location": "543 Main St, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.6624,
+            "longitude": -82.347
+        },
+        "image_paths": [
+            "street_data/apartment_0793.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 4 Downtown",
+        "price_per_month": 1329,
+        "duration": "8 months",
+        "contact": {
+            "email": "user4@ufl.edu",
+            "phone": "(555) 726-4747"
+        },
+        "location": "963 Main St, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.6622,
+            "longitude": -82.3422
+        },
+        "image_paths": [
+            "street_data/apartment_0826.jpg",
+            "street_data/apartment_0084.jpg",
+            "street_data/apartment_0547.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 5 Downtown",
+        "price_per_month": 999,
+        "duration": "12 months",
+        "contact": {
+            "email": "user5@ufl.edu",
+            "phone": "(555) 884-5187"
+        },
+        "location": "837 Main St, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.6423,
+            "longitude": -82.3315
+        },
+        "image_paths": [
+            "street_data/apartment_0618.jpg",
+            "street_data/apartment_0145.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 6 Downtown",
+        "price_per_month": 869,
+        "duration": "3 months",
+        "contact": {
+            "email": "user6@ufl.edu",
+            "phone": "(555) 811-5682"
+        },
+        "location": "751 Main St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.6493,
+            "longitude": -82.3305
+        },
+        "image_paths": [
+            "street_data/apartment_0067.jpg",
+            "street_data/apartment_0601.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 7 Downtown",
+        "price_per_month": 1135,
+        "duration": "9 months",
+        "contact": {
+            "email": "user7@ufl.edu",
+            "phone": "(555) 910-6547"
+        },
+        "location": "165 Main St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.6493,
+            "longitude": -82.328
+        },
+        "image_paths": [
+            "street_data/apartment_0283.jpg",
+            "street_data/apartment_0381.jpg",
+            "street_data/apartment_0512.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 8 Downtown",
+        "price_per_month": 1453,
+        "duration": "7 months",
+        "contact": {
+            "email": "user8@ufl.edu",
+            "phone": "(555) 542-9486"
+        },
+        "location": "712 Main St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.6642,
+            "longitude": -82.3278
+        },
+        "image_paths": [
+            "street_data/apartment_0611.jpg",
+            "street_data/apartment_0273.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 9 Downtown",
+        "price_per_month": 1395,
+        "duration": "6 months",
+        "contact": {
+            "email": "user9@ufl.edu",
+            "phone": "(555) 784-8593"
+        },
+        "location": "887 Main St, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.6465,
+            "longitude": -82.3466
+        },
+        "image_paths": [
+            "street_data/apartment_0681.jpg",
+            "street_data/apartment_0962.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 10 Downtown",
+        "price_per_month": 1434,
+        "duration": "10 months",
+        "contact": {
+            "email": "user10@ufl.edu",
+            "phone": "(555) 523-2977"
+        },
+        "location": "377 Main St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.6572,
+            "longitude": -82.3201
+        },
+        "image_paths": [
+            "street_data/apartment_0529.jpg",
+            "street_data/apartment_0773.jpg",
+            "street_data/apartment_0130.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 11 Downtown",
+        "price_per_month": 808,
+        "duration": "7 months",
+        "contact": {
+            "email": "user11@ufl.edu",
+            "phone": "(555) 905-2314"
+        },
+        "location": "774 Main St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.6475,
+            "longitude": -82.3258
+        },
+        "image_paths": [
+            "street_data/apartment_0689.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 12 Downtown",
+        "price_per_month": 864,
+        "duration": "12 months",
+        "contact": {
+            "email": "user12@ufl.edu",
+            "phone": "(555) 987-6100"
+        },
+        "location": "812 Main St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.6659,
+            "longitude": -82.3494
+        },
+        "image_paths": [
+            "street_data/apartment_0910.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 13 Downtown",
+        "price_per_month": 1084,
+        "duration": "5 months",
+        "contact": {
+            "email": "user13@ufl.edu",
+            "phone": "(555) 316-8895"
+        },
+        "location": "555 Main St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.668,
+            "longitude": -82.3265
+        },
+        "image_paths": [
+            "street_data/apartment_0006.jpg",
+            "street_data/apartment_0043.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 14 Downtown",
+        "price_per_month": 1477,
+        "duration": "10 months",
+        "contact": {
+            "email": "user14@ufl.edu",
+            "phone": "(555) 179-1028"
+        },
+        "location": "890 Main St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.6657,
+            "longitude": -82.3223
+        },
+        "image_paths": [
+            "street_data/apartment_0251.jpg",
+            "street_data/apartment_0530.jpg",
+            "street_data/apartment_0636.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 15 Downtown",
+        "price_per_month": 1209,
+        "duration": "7 months",
+        "contact": {
+            "email": "user15@ufl.edu",
+            "phone": "(555) 482-8884"
+        },
+        "location": "785 Main St, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.6462,
+            "longitude": -82.3294
+        },
+        "image_paths": [
+            "street_data/apartment_0270.jpg",
+            "street_data/apartment_0561.jpg",
+            "street_data/apartment_0931.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 16 Downtown",
+        "price_per_month": 853,
+        "duration": "12 months",
+        "contact": {
+            "email": "user16@ufl.edu",
+            "phone": "(555) 558-8518"
+        },
+        "location": "977 Main St, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.6569,
+            "longitude": -82.3415
+        },
+        "image_paths": [
+            "street_data/apartment_0736.jpg",
+            "street_data/apartment_0604.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 17 Downtown",
+        "price_per_month": 1284,
+        "duration": "5 months",
+        "contact": {
+            "email": "user17@ufl.edu",
+            "phone": "(555) 231-8566"
+        },
+        "location": "132 Main St, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.6518,
+            "longitude": -82.3459
+        },
+        "image_paths": [
+            "street_data/apartment_0259.jpg",
+            "street_data/apartment_0982.jpg",
+            "street_data/apartment_0837.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 18 Downtown",
+        "price_per_month": 1201,
+        "duration": "5 months",
+        "contact": {
+            "email": "user18@ufl.edu",
+            "phone": "(555) 844-5670"
+        },
+        "location": "238 Main St, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.6698,
+            "longitude": -82.3386
+        },
+        "image_paths": [
+            "street_data/apartment_0739.jpg",
+            "street_data/apartment_0086.jpg",
+            "street_data/apartment_0897.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 19 Downtown",
+        "price_per_month": 945,
+        "duration": "9 months",
+        "contact": {
+            "email": "user19@ufl.edu",
+            "phone": "(555) 329-7245"
+        },
+        "location": "764 Main St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.6525,
+            "longitude": -82.3492
+        },
+        "image_paths": [
+            "street_data/apartment_0084.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 20 Downtown",
+        "price_per_month": 808,
+        "duration": "5 months",
+        "contact": {
+            "email": "user20@ufl.edu",
+            "phone": "(555) 220-5495"
+        },
+        "location": "721 Main St, Gainesville, FL 32609",
+        "coordinates": {
+            "latitude": 29.653,
+            "longitude": -82.3411
+        },
+        "image_paths": [
+            "street_data/apartment_0528.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 21 Downtown",
+        "price_per_month": 1095,
+        "duration": "4 months",
+        "contact": {
+            "email": "user21@ufl.edu",
+            "phone": "(555) 798-8324"
+        },
+        "location": "503 Main St, Gainesville, FL 32609",
+        "coordinates": {
+            "latitude": 29.657,
+            "longitude": -82.3355
+        },
+        "image_paths": [
+            "street_data/apartment_0814.jpg",
+            "street_data/apartment_0256.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 22 Downtown",
+        "price_per_month": 1404,
+        "duration": "6 months",
+        "contact": {
+            "email": "user22@ufl.edu",
+            "phone": "(555) 480-1809"
+        },
+        "location": "409 Main St, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.6468,
+            "longitude": -82.3214
+        },
+        "image_paths": [
+            "street_data/apartment_0456.jpg",
+            "street_data/apartment_0425.jpg",
+            "street_data/apartment_0263.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 23 Downtown",
+        "price_per_month": 981,
+        "duration": "4 months",
+        "contact": {
+            "email": "user23@ufl.edu",
+            "phone": "(555) 395-1417"
+        },
+        "location": "512 Main St, Gainesville, FL 32609",
+        "coordinates": {
+            "latitude": 29.6654,
+            "longitude": -82.3438
+        },
+        "image_paths": [
+            "street_data/apartment_0424.jpg",
+            "street_data/apartment_0100.jpg",
+            "street_data/apartment_0993.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 24 Downtown",
+        "price_per_month": 1401,
+        "duration": "12 months",
+        "contact": {
+            "email": "user24@ufl.edu",
+            "phone": "(555) 157-2475"
+        },
+        "location": "881 Main St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.6421,
+            "longitude": -82.3473
+        },
+        "image_paths": [
+            "street_data/apartment_0023.jpg",
+            "street_data/apartment_0395.jpg",
+            "street_data/apartment_0225.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 25 Downtown",
+        "price_per_month": 1293,
+        "duration": "7 months",
+        "contact": {
+            "email": "user25@ufl.edu",
+            "phone": "(555) 624-3196"
+        },
+        "location": "504 Main St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.6417,
+            "longitude": -82.3416
+        },
+        "image_paths": [
+            "street_data/apartment_0674.jpg",
+            "street_data/apartment_0759.jpg",
+            "street_data/apartment_0907.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 26 Downtown",
+        "price_per_month": 1119,
+        "duration": "6 months",
+        "contact": {
+            "email": "user26@ufl.edu",
+            "phone": "(555) 466-3259"
+        },
+        "location": "402 Main St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.6574,
+            "longitude": -82.3482
+        },
+        "image_paths": [
+            "street_data/apartment_0561.jpg",
+            "street_data/apartment_0316.jpg",
+            "street_data/apartment_0266.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 27 Downtown",
+        "price_per_month": 1176,
+        "duration": "10 months",
+        "contact": {
+            "email": "user27@ufl.edu",
+            "phone": "(555) 780-1269"
+        },
+        "location": "289 Main St, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.6563,
+            "longitude": -82.3253
+        },
+        "image_paths": [
+            "street_data/apartment_0641.jpg",
+            "street_data/apartment_0585.jpg",
+            "street_data/apartment_0378.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 28 Downtown",
+        "price_per_month": 1439,
+        "duration": "4 months",
+        "contact": {
+            "email": "user28@ufl.edu",
+            "phone": "(555) 367-9034"
+        },
+        "location": "794 Main St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.658,
+            "longitude": -82.3325
+        },
+        "image_paths": [
+            "street_data/apartment_0768.jpg",
+            "street_data/apartment_0421.jpg",
+            "street_data/apartment_0853.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 29 Downtown",
+        "price_per_month": 1076,
+        "duration": "4 months",
+        "contact": {
+            "email": "user29@ufl.edu",
+            "phone": "(555) 299-6080"
+        },
+        "location": "273 Main St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.6652,
+            "longitude": -82.3255
+        },
+        "image_paths": [
+            "street_data/apartment_0319.jpg",
+            "street_data/apartment_0514.jpg",
+            "street_data/apartment_0973.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 30 Downtown",
+        "price_per_month": 927,
+        "duration": "11 months",
+        "contact": {
+            "email": "user30@ufl.edu",
+            "phone": "(555) 881-7112"
+        },
+        "location": "631 Main St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.6458,
+            "longitude": -82.3425
+        },
+        "image_paths": [
+            "street_data/apartment_0369.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 31 Downtown",
+        "price_per_month": 1250,
+        "duration": "5 months",
+        "contact": {
+            "email": "user31@ufl.edu",
+            "phone": "(555) 708-8251"
+        },
+        "location": "690 Main St, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.6431,
+            "longitude": -82.3278
+        },
+        "image_paths": [
+            "street_data/apartment_0957.jpg",
+            "street_data/apartment_0558.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 32 Downtown",
+        "price_per_month": 1468,
+        "duration": "5 months",
+        "contact": {
+            "email": "user32@ufl.edu",
+            "phone": "(555) 629-7276"
+        },
+        "location": "527 Main St, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.6433,
+            "longitude": -82.3349
+        },
+        "image_paths": [
+            "street_data/apartment_0907.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 33 Downtown",
+        "price_per_month": 967,
+        "duration": "7 months",
+        "contact": {
+            "email": "user33@ufl.edu",
+            "phone": "(555) 636-3378"
+        },
+        "location": "662 Main St, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.6469,
+            "longitude": -82.3316
+        },
+        "image_paths": [
+            "street_data/apartment_0029.jpg",
+            "street_data/apartment_0747.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 34 Downtown",
+        "price_per_month": 1309,
+        "duration": "7 months",
+        "contact": {
+            "email": "user34@ufl.edu",
+            "phone": "(555) 633-8373"
+        },
+        "location": "434 Main St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.6682,
+            "longitude": -82.334
+        },
+        "image_paths": [
+            "street_data/apartment_0333.jpg",
+            "street_data/apartment_0990.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 35 Downtown",
+        "price_per_month": 976,
+        "duration": "4 months",
+        "contact": {
+            "email": "user35@ufl.edu",
+            "phone": "(555) 551-5313"
+        },
+        "location": "433 Main St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.6584,
+            "longitude": -82.3306
+        },
+        "image_paths": [
+            "street_data/apartment_0888.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 36 Downtown",
+        "price_per_month": 829,
+        "duration": "8 months",
+        "contact": {
+            "email": "user36@ufl.edu",
+            "phone": "(555) 552-5973"
+        },
+        "location": "925 Main St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.6569,
+            "longitude": -82.3368
+        },
+        "image_paths": [
+            "street_data/apartment_0377.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 37 Downtown",
+        "price_per_month": 1466,
+        "duration": "8 months",
+        "contact": {
+            "email": "user37@ufl.edu",
+            "phone": "(555) 927-5514"
+        },
+        "location": "535 Main St, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.6686,
+            "longitude": -82.3288
+        },
+        "image_paths": [
+            "street_data/apartment_0809.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 38 Downtown",
+        "price_per_month": 1485,
+        "duration": "4 months",
+        "contact": {
+            "email": "user38@ufl.edu",
+            "phone": "(555) 736-8942"
+        },
+        "location": "391 Main St, Gainesville, FL 32609",
+        "coordinates": {
+            "latitude": 29.6655,
+            "longitude": -82.3355
+        },
+        "image_paths": [
+            "street_data/apartment_0828.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 39 Downtown",
+        "price_per_month": 1427,
+        "duration": "7 months",
+        "contact": {
+            "email": "user39@ufl.edu",
+            "phone": "(555) 639-1313"
+        },
+        "location": "143 Main St, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.6547,
+            "longitude": -82.3499
+        },
+        "image_paths": [
+            "street_data/apartment_0243.jpg",
+            "street_data/apartment_0812.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 40 Downtown",
+        "price_per_month": 1281,
+        "duration": "3 months",
+        "contact": {
+            "email": "user40@ufl.edu",
+            "phone": "(555) 503-6656"
+        },
+        "location": "492 Main St, Gainesville, FL 32609",
+        "coordinates": {
+            "latitude": 29.6458,
+            "longitude": -82.3477
+        },
+        "image_paths": [
+            "street_data/apartment_0338.jpg",
+            "street_data/apartment_0149.jpg",
+            "street_data/apartment_0833.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 41 Downtown",
+        "price_per_month": 1313,
+        "duration": "9 months",
+        "contact": {
+            "email": "user41@ufl.edu",
+            "phone": "(555) 223-5543"
+        },
+        "location": "862 Main St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.6467,
+            "longitude": -82.3269
+        },
+        "image_paths": [
+            "street_data/apartment_0289.jpg",
+            "street_data/apartment_0859.jpg",
+            "street_data/apartment_0479.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 42 Downtown",
+        "price_per_month": 1107,
+        "duration": "4 months",
+        "contact": {
+            "email": "user42@ufl.edu",
+            "phone": "(555) 831-4796"
+        },
+        "location": "729 Main St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.6457,
+            "longitude": -82.3415
+        },
+        "image_paths": [
+            "street_data/apartment_0714.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 43 Downtown",
+        "price_per_month": 1177,
+        "duration": "12 months",
+        "contact": {
+            "email": "user43@ufl.edu",
+            "phone": "(555) 399-8882"
+        },
+        "location": "803 Main St, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.6546,
+            "longitude": -82.3424
+        },
+        "image_paths": [
+            "street_data/apartment_0398.jpg",
+            "street_data/apartment_0413.jpg",
+            "street_data/apartment_0528.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 44 Downtown",
+        "price_per_month": 1331,
+        "duration": "4 months",
+        "contact": {
+            "email": "user44@ufl.edu",
+            "phone": "(555) 256-9266"
+        },
+        "location": "789 Main St, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.6633,
+            "longitude": -82.3454
+        },
+        "image_paths": [
+            "street_data/apartment_0582.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 45 Downtown",
+        "price_per_month": 986,
+        "duration": "11 months",
+        "contact": {
+            "email": "user45@ufl.edu",
+            "phone": "(555) 454-1196"
+        },
+        "location": "221 Main St, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.6458,
+            "longitude": -82.3407
+        },
+        "image_paths": [
+            "street_data/apartment_0854.jpg",
+            "street_data/apartment_0650.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 46 Downtown",
+        "price_per_month": 1369,
+        "duration": "8 months",
+        "contact": {
+            "email": "user46@ufl.edu",
+            "phone": "(555) 416-9114"
+        },
+        "location": "590 Main St, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.6499,
+            "longitude": -82.3301
+        },
+        "image_paths": [
+            "street_data/apartment_0235.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 47 Downtown",
+        "price_per_month": 895,
+        "duration": "10 months",
+        "contact": {
+            "email": "user47@ufl.edu",
+            "phone": "(555) 110-4146"
+        },
+        "location": "818 Main St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.6474,
+            "longitude": -82.3256
+        },
+        "image_paths": [
+            "street_data/apartment_0059.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 48 Downtown",
+        "price_per_month": 1290,
+        "duration": "3 months",
+        "contact": {
+            "email": "user48@ufl.edu",
+            "phone": "(555) 890-3139"
+        },
+        "location": "455 Main St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.6614,
+            "longitude": -82.3333
+        },
+        "image_paths": [
+            "street_data/apartment_0227.jpg",
+            "street_data/apartment_0299.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 49 Downtown",
+        "price_per_month": 1465,
+        "duration": "6 months",
+        "contact": {
+            "email": "user49@ufl.edu",
+            "phone": "(555) 876-8163"
+        },
+        "location": "611 Main St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.6469,
+            "longitude": -82.3214
+        },
+        "image_paths": [
+            "street_data/apartment_0142.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 50 Downtown",
+        "price_per_month": 1405,
+        "duration": "3 months",
+        "contact": {
+            "email": "user50@ufl.edu",
+            "phone": "(555) 931-8389"
+        },
+        "location": "817 Main St, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.6562,
+            "longitude": -82.3215
+        },
+        "image_paths": [
+            "street_data/apartment_0402.jpg",
+            "street_data/apartment_0276.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 51 Downtown",
+        "price_per_month": 1222,
+        "duration": "11 months",
+        "contact": {
+            "email": "user51@ufl.edu",
+            "phone": "(555) 920-8338"
+        },
+        "location": "462 Main St, Gainesville, FL 32609",
+        "coordinates": {
+            "latitude": 29.6654,
+            "longitude": -82.3339
+        },
+        "image_paths": [
+            "street_data/apartment_0717.jpg",
+            "street_data/apartment_0428.jpg",
+            "street_data/apartment_0814.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 52 Downtown",
+        "price_per_month": 1122,
+        "duration": "4 months",
+        "contact": {
+            "email": "user52@ufl.edu",
+            "phone": "(555) 385-8991"
+        },
+        "location": "799 Main St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.6574,
+            "longitude": -82.3421
+        },
+        "image_paths": [
+            "street_data/apartment_0411.jpg",
+            "street_data/apartment_0587.jpg",
+            "street_data/apartment_0119.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 53 Downtown",
+        "price_per_month": 876,
+        "duration": "10 months",
+        "contact": {
+            "email": "user53@ufl.edu",
+            "phone": "(555) 295-9782"
+        },
+        "location": "541 Main St, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.647,
+            "longitude": -82.3201
+        },
+        "image_paths": [
+            "street_data/apartment_0716.jpg",
+            "street_data/apartment_0399.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 54 Downtown",
+        "price_per_month": 911,
+        "duration": "5 months",
+        "contact": {
+            "email": "user54@ufl.edu",
+            "phone": "(555) 225-3078"
+        },
+        "location": "694 Main St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.6611,
+            "longitude": -82.3203
+        },
+        "image_paths": [
+            "street_data/apartment_0882.jpg",
+            "street_data/apartment_0790.jpg",
+            "street_data/apartment_0674.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 55 Downtown",
+        "price_per_month": 1061,
+        "duration": "6 months",
+        "contact": {
+            "email": "user55@ufl.edu",
+            "phone": "(555) 922-4601"
+        },
+        "location": "617 Main St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.6611,
+            "longitude": -82.3455
+        },
+        "image_paths": [
+            "street_data/apartment_0308.jpg",
+            "street_data/apartment_0000.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 56 Downtown",
+        "price_per_month": 1095,
+        "duration": "7 months",
+        "contact": {
+            "email": "user56@ufl.edu",
+            "phone": "(555) 403-4792"
+        },
+        "location": "671 Main St, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.6493,
+            "longitude": -82.3227
+        },
+        "image_paths": [
+            "street_data/apartment_0693.jpg",
+            "street_data/apartment_0601.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 57 Downtown",
+        "price_per_month": 1096,
+        "duration": "5 months",
+        "contact": {
+            "email": "user57@ufl.edu",
+            "phone": "(555) 239-7588"
+        },
+        "location": "256 Main St, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.6492,
+            "longitude": -82.3489
+        },
+        "image_paths": [
+            "street_data/apartment_0903.jpg",
+            "street_data/apartment_0693.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 58 Downtown",
+        "price_per_month": 1464,
+        "duration": "4 months",
+        "contact": {
+            "email": "user58@ufl.edu",
+            "phone": "(555) 900-8100"
+        },
+        "location": "507 Main St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.6564,
+            "longitude": -82.3202
+        },
+        "image_paths": [
+            "street_data/apartment_0360.jpg",
+            "street_data/apartment_0657.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 59 Downtown",
+        "price_per_month": 1453,
+        "duration": "3 months",
+        "contact": {
+            "email": "user59@ufl.edu",
+            "phone": "(555) 739-8766"
+        },
+        "location": "116 Main St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.6543,
+            "longitude": -82.3485
+        },
+        "image_paths": [
+            "street_data/apartment_0739.jpg",
+            "street_data/apartment_0313.jpg",
+            "street_data/apartment_0908.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 60 Downtown",
+        "price_per_month": 1089,
+        "duration": "11 months",
+        "contact": {
+            "email": "user60@ufl.edu",
+            "phone": "(555) 373-3491"
+        },
+        "location": "664 Main St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.6475,
+            "longitude": -82.3258
+        },
+        "image_paths": [
+            "street_data/apartment_0783.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 61 Downtown",
+        "price_per_month": 923,
+        "duration": "4 months",
+        "contact": {
+            "email": "user61@ufl.edu",
+            "phone": "(555) 210-1943"
+        },
+        "location": "440 Main St, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.6627,
+            "longitude": -82.3439
+        },
+        "image_paths": [
+            "street_data/apartment_0393.jpg",
+            "street_data/apartment_0202.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 62 Downtown",
+        "price_per_month": 1037,
+        "duration": "8 months",
+        "contact": {
+            "email": "user62@ufl.edu",
+            "phone": "(555) 918-6272"
+        },
+        "location": "130 Main St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.6526,
+            "longitude": -82.3208
+        },
+        "image_paths": [
+            "street_data/apartment_0924.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 63 Downtown",
+        "price_per_month": 873,
+        "duration": "4 months",
+        "contact": {
+            "email": "user63@ufl.edu",
+            "phone": "(555) 378-2290"
+        },
+        "location": "755 Main St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.6469,
+            "longitude": -82.3294
+        },
+        "image_paths": [
+            "street_data/apartment_0003.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 64 Downtown",
+        "price_per_month": 1476,
+        "duration": "9 months",
+        "contact": {
+            "email": "user64@ufl.edu",
+            "phone": "(555) 564-2950"
+        },
+        "location": "543 Main St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.6434,
+            "longitude": -82.3286
+        },
+        "image_paths": [
+            "street_data/apartment_0449.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 65 Downtown",
+        "price_per_month": 1479,
+        "duration": "7 months",
+        "contact": {
+            "email": "user65@ufl.edu",
+            "phone": "(555) 160-1555"
+        },
+        "location": "360 Main St, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.6497,
+            "longitude": -82.3316
+        },
+        "image_paths": [
+            "street_data/apartment_0639.jpg",
+            "street_data/apartment_0257.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 66 Downtown",
+        "price_per_month": 1103,
+        "duration": "4 months",
+        "contact": {
+            "email": "user66@ufl.edu",
+            "phone": "(555) 387-6556"
+        },
+        "location": "231 Main St, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.6657,
+            "longitude": -82.3202
+        },
+        "image_paths": [
+            "street_data/apartment_0548.jpg",
+            "street_data/apartment_0677.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 67 Downtown",
+        "price_per_month": 1075,
+        "duration": "10 months",
+        "contact": {
+            "email": "user67@ufl.edu",
+            "phone": "(555) 494-3230"
+        },
+        "location": "251 Main St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.6679,
+            "longitude": -82.3332
+        },
+        "image_paths": [
+            "street_data/apartment_0576.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 68 Downtown",
+        "price_per_month": 1301,
+        "duration": "10 months",
+        "contact": {
+            "email": "user68@ufl.edu",
+            "phone": "(555) 238-6891"
+        },
+        "location": "407 Main St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.6564,
+            "longitude": -82.3295
+        },
+        "image_paths": [
+            "street_data/apartment_0613.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 69 Downtown",
+        "price_per_month": 811,
+        "duration": "8 months",
+        "contact": {
+            "email": "user69@ufl.edu",
+            "phone": "(555) 141-9398"
+        },
+        "location": "650 Main St, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.6474,
+            "longitude": -82.3428
+        },
+        "image_paths": [
+            "street_data/apartment_0651.jpg",
+            "street_data/apartment_0795.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 70 Downtown",
+        "price_per_month": 866,
+        "duration": "3 months",
+        "contact": {
+            "email": "user70@ufl.edu",
+            "phone": "(555) 614-6553"
+        },
+        "location": "244 Main St, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.661,
+            "longitude": -82.3299
+        },
+        "image_paths": [
+            "street_data/apartment_0135.jpg",
+            "street_data/apartment_0518.jpg",
+            "street_data/apartment_0459.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 71 Downtown",
+        "price_per_month": 1221,
+        "duration": "3 months",
+        "contact": {
+            "email": "user71@ufl.edu",
+            "phone": "(555) 577-7714"
+        },
+        "location": "942 Main St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.6607,
+            "longitude": -82.3219
+        },
+        "image_paths": [
+            "street_data/apartment_0820.jpg",
+            "street_data/apartment_0765.jpg",
+            "street_data/apartment_0650.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 72 Downtown",
+        "price_per_month": 1175,
+        "duration": "10 months",
+        "contact": {
+            "email": "user72@ufl.edu",
+            "phone": "(555) 794-1054"
+        },
+        "location": "105 Main St, Gainesville, FL 32609",
+        "coordinates": {
+            "latitude": 29.6437,
+            "longitude": -82.3453
+        },
+        "image_paths": [
+            "street_data/apartment_0022.jpg",
+            "street_data/apartment_0575.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 73 Downtown",
+        "price_per_month": 889,
+        "duration": "8 months",
+        "contact": {
+            "email": "user73@ufl.edu",
+            "phone": "(555) 900-2490"
+        },
+        "location": "262 Main St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.6582,
+            "longitude": -82.3347
+        },
+        "image_paths": [
+            "street_data/apartment_0666.jpg",
+            "street_data/apartment_0791.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 74 Downtown",
+        "price_per_month": 1102,
+        "duration": "12 months",
+        "contact": {
+            "email": "user74@ufl.edu",
+            "phone": "(555) 807-9226"
+        },
+        "location": "997 Main St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.6643,
+            "longitude": -82.3393
+        },
+        "image_paths": [
+            "street_data/apartment_0503.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 75 Downtown",
+        "price_per_month": 991,
+        "duration": "4 months",
+        "contact": {
+            "email": "user75@ufl.edu",
+            "phone": "(555) 467-6136"
+        },
+        "location": "993 Main St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.6696,
+            "longitude": -82.3243
+        },
+        "image_paths": [
+            "street_data/apartment_0604.jpg",
+            "street_data/apartment_0556.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 76 Downtown",
+        "price_per_month": 829,
+        "duration": "5 months",
+        "contact": {
+            "email": "user76@ufl.edu",
+            "phone": "(555) 245-6231"
+        },
+        "location": "577 Main St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.6698,
+            "longitude": -82.3357
+        },
+        "image_paths": [
+            "street_data/apartment_0607.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 77 Downtown",
+        "price_per_month": 822,
+        "duration": "6 months",
+        "contact": {
+            "email": "user77@ufl.edu",
+            "phone": "(555) 734-5754"
+        },
+        "location": "671 Main St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.6517,
+            "longitude": -82.3204
+        },
+        "image_paths": [
+            "street_data/apartment_0439.jpg",
+            "street_data/apartment_0022.jpg",
+            "street_data/apartment_0300.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 78 Downtown",
+        "price_per_month": 1012,
+        "duration": "8 months",
+        "contact": {
+            "email": "user78@ufl.edu",
+            "phone": "(555) 913-3299"
+        },
+        "location": "433 Main St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.6677,
+            "longitude": -82.3439
+        },
+        "image_paths": [
+            "street_data/apartment_0530.jpg",
+            "street_data/apartment_0714.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 79 Downtown",
+        "price_per_month": 1416,
+        "duration": "6 months",
+        "contact": {
+            "email": "user79@ufl.edu",
+            "phone": "(555) 364-6291"
+        },
+        "location": "111 Main St, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.6611,
+            "longitude": -82.3267
+        },
+        "image_paths": [
+            "street_data/apartment_0171.jpg",
+            "street_data/apartment_0640.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 80 Downtown",
+        "price_per_month": 1313,
+        "duration": "12 months",
+        "contact": {
+            "email": "user80@ufl.edu",
+            "phone": "(555) 760-3615"
+        },
+        "location": "879 Main St, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.6412,
+            "longitude": -82.3471
+        },
+        "image_paths": [
+            "street_data/apartment_0821.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 81 Downtown",
+        "price_per_month": 1230,
+        "duration": "5 months",
+        "contact": {
+            "email": "user81@ufl.edu",
+            "phone": "(555) 887-3476"
+        },
+        "location": "610 Main St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.6512,
+            "longitude": -82.3267
+        },
+        "image_paths": [
+            "street_data/apartment_0007.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 82 Downtown",
+        "price_per_month": 1344,
+        "duration": "4 months",
+        "contact": {
+            "email": "user82@ufl.edu",
+            "phone": "(555) 940-4799"
+        },
+        "location": "752 Main St, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.6563,
+            "longitude": -82.3308
+        },
+        "image_paths": [
+            "street_data/apartment_0707.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 83 Downtown",
+        "price_per_month": 1098,
+        "duration": "12 months",
+        "contact": {
+            "email": "user83@ufl.edu",
+            "phone": "(555) 527-4609"
+        },
+        "location": "604 Main St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.645,
+            "longitude": -82.3267
+        },
+        "image_paths": [
+            "street_data/apartment_0597.jpg",
+            "street_data/apartment_0547.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 84 Downtown",
+        "price_per_month": 1483,
+        "duration": "5 months",
+        "contact": {
+            "email": "user84@ufl.edu",
+            "phone": "(555) 368-5623"
+        },
+        "location": "409 Main St, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.6674,
+            "longitude": -82.3227
+        },
+        "image_paths": [
+            "street_data/apartment_0033.jpg",
+            "street_data/apartment_0242.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 85 Downtown",
+        "price_per_month": 1296,
+        "duration": "7 months",
+        "contact": {
+            "email": "user85@ufl.edu",
+            "phone": "(555) 422-9313"
+        },
+        "location": "190 Main St, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.6557,
+            "longitude": -82.3213
+        },
+        "image_paths": [
+            "street_data/apartment_0453.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 86 Downtown",
+        "price_per_month": 981,
+        "duration": "11 months",
+        "contact": {
+            "email": "user86@ufl.edu",
+            "phone": "(555) 703-7961"
+        },
+        "location": "344 Main St, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.6685,
+            "longitude": -82.3425
+        },
+        "image_paths": [
+            "street_data/apartment_0667.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 87 Downtown",
+        "price_per_month": 1464,
+        "duration": "10 months",
+        "contact": {
+            "email": "user87@ufl.edu",
+            "phone": "(555) 238-4145"
+        },
+        "location": "739 Main St, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.6434,
+            "longitude": -82.3256
+        },
+        "image_paths": [
+            "street_data/apartment_0218.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 88 Downtown",
+        "price_per_month": 1447,
+        "duration": "5 months",
+        "contact": {
+            "email": "user88@ufl.edu",
+            "phone": "(555) 250-7164"
+        },
+        "location": "855 Main St, Gainesville, FL 32609",
+        "coordinates": {
+            "latitude": 29.6654,
+            "longitude": -82.3362
+        },
+        "image_paths": [
+            "street_data/apartment_0848.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 89 Downtown",
+        "price_per_month": 974,
+        "duration": "9 months",
+        "contact": {
+            "email": "user89@ufl.edu",
+            "phone": "(555) 371-2862"
+        },
+        "location": "517 Main St, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.6691,
+            "longitude": -82.3261
+        },
+        "image_paths": [
+            "street_data/apartment_0675.jpg",
+            "street_data/apartment_0676.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 90 Downtown",
+        "price_per_month": 1190,
+        "duration": "10 months",
+        "contact": {
+            "email": "user90@ufl.edu",
+            "phone": "(555) 225-8373"
+        },
+        "location": "563 Main St, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.648,
+            "longitude": -82.3213
+        },
+        "image_paths": [
+            "street_data/apartment_0902.jpg",
+            "street_data/apartment_0826.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 91 Downtown",
+        "price_per_month": 872,
+        "duration": "8 months",
+        "contact": {
+            "email": "user91@ufl.edu",
+            "phone": "(555) 510-1721"
+        },
+        "location": "770 Main St, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.6424,
+            "longitude": -82.3287
+        },
+        "image_paths": [
+            "street_data/apartment_0280.jpg",
+            "street_data/apartment_0589.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 92 Downtown",
+        "price_per_month": 1040,
+        "duration": "3 months",
+        "contact": {
+            "email": "user92@ufl.edu",
+            "phone": "(555) 844-5478"
+        },
+        "location": "785 Main St, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.6535,
+            "longitude": -82.3342
+        },
+        "image_paths": [
+            "street_data/apartment_0952.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 93 Downtown",
+        "price_per_month": 1389,
+        "duration": "6 months",
+        "contact": {
+            "email": "user93@ufl.edu",
+            "phone": "(555) 769-3822"
+        },
+        "location": "143 Main St, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.6475,
+            "longitude": -82.3429
+        },
+        "image_paths": [
+            "street_data/apartment_0937.jpg",
+            "street_data/apartment_0969.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 94 Downtown",
+        "price_per_month": 1414,
+        "duration": "3 months",
+        "contact": {
+            "email": "user94@ufl.edu",
+            "phone": "(555) 528-7208"
+        },
+        "location": "646 Main St, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.668,
+            "longitude": -82.3377
+        },
+        "image_paths": [
+            "street_data/apartment_0571.jpg",
+            "street_data/apartment_0313.jpg",
+            "street_data/apartment_0341.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 95 Downtown",
+        "price_per_month": 1290,
+        "duration": "6 months",
+        "contact": {
+            "email": "user95@ufl.edu",
+            "phone": "(555) 687-3374"
+        },
+        "location": "592 Main St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.6553,
+            "longitude": -82.3446
+        },
+        "image_paths": [
+            "street_data/apartment_0468.jpg",
+            "street_data/apartment_0759.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 96 Downtown",
+        "price_per_month": 1047,
+        "duration": "4 months",
+        "contact": {
+            "email": "user96@ufl.edu",
+            "phone": "(555) 832-9601"
+        },
+        "location": "838 Main St, Gainesville, FL 32609",
+        "coordinates": {
+            "latitude": 29.6609,
+            "longitude": -82.3327
+        },
+        "image_paths": [
+            "street_data/apartment_0609.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 97 Downtown",
+        "price_per_month": 1085,
+        "duration": "3 months",
+        "contact": {
+            "email": "user97@ufl.edu",
+            "phone": "(555) 430-3919"
+        },
+        "location": "325 Main St, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.6561,
+            "longitude": -82.3363
+        },
+        "image_paths": [
+            "street_data/apartment_0303.jpg",
+            "street_data/apartment_0036.jpg",
+            "street_data/apartment_0940.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 98 Downtown",
+        "price_per_month": 854,
+        "duration": "11 months",
+        "contact": {
+            "email": "user98@ufl.edu",
+            "phone": "(555) 597-8667"
+        },
+        "location": "509 Main St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.6493,
+            "longitude": -82.3406
+        },
+        "image_paths": [
+            "street_data/apartment_0865.jpg",
+            "street_data/apartment_0637.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 99 Downtown",
+        "price_per_month": 900,
+        "duration": "9 months",
+        "contact": {
+            "email": "user99@ufl.edu",
+            "phone": "(555) 850-1737"
+        },
+        "location": "700 Main St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.663,
+            "longitude": -82.3492
+        },
+        "image_paths": [
+            "street_data/apartment_0457.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 100 Downtown",
+        "price_per_month": 1081,
+        "duration": "12 months",
+        "contact": {
+            "email": "user100@ufl.edu",
+            "phone": "(555) 434-6429"
+        },
+        "location": "740 Main St, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.6507,
+            "longitude": -82.3295
+        },
+        "image_paths": [
+            "street_data/apartment_0769.jpg",
+            "street_data/apartment_0174.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 101 Downtown",
+        "price_per_month": 1309,
+        "duration": "10 months",
+        "contact": {
+            "email": "user101@ufl.edu",
+            "phone": "(555) 356-8945"
+        },
+        "location": "326 Main St, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.6596,
+            "longitude": -82.3203
+        },
+        "image_paths": [
+            "street_data/apartment_0112.jpg",
+            "street_data/apartment_0867.jpg",
+            "street_data/apartment_0581.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 102 Downtown",
+        "price_per_month": 1140,
+        "duration": "9 months",
+        "contact": {
+            "email": "user102@ufl.edu",
+            "phone": "(555) 363-9099"
+        },
+        "location": "450 Main St, Gainesville, FL 32609",
+        "coordinates": {
+            "latitude": 29.652,
+            "longitude": -82.3484
+        },
+        "image_paths": [
+            "street_data/apartment_0841.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 103 Downtown",
+        "price_per_month": 1285,
+        "duration": "3 months",
+        "contact": {
+            "email": "user103@ufl.edu",
+            "phone": "(555) 538-1502"
+        },
+        "location": "974 Main St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.6632,
+            "longitude": -82.3252
+        },
+        "image_paths": [
+            "street_data/apartment_0626.jpg",
+            "street_data/apartment_0634.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 104 Downtown",
+        "price_per_month": 1130,
+        "duration": "4 months",
+        "contact": {
+            "email": "user104@ufl.edu",
+            "phone": "(555) 642-2928"
+        },
+        "location": "352 Main St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.6506,
+            "longitude": -82.3426
+        },
+        "image_paths": [
+            "street_data/apartment_0415.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 105 Downtown",
+        "price_per_month": 807,
+        "duration": "12 months",
+        "contact": {
+            "email": "user105@ufl.edu",
+            "phone": "(555) 521-8837"
+        },
+        "location": "423 Main St, Gainesville, FL 32609",
+        "coordinates": {
+            "latitude": 29.6586,
+            "longitude": -82.3233
+        },
+        "image_paths": [
+            "street_data/apartment_0399.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 106 Downtown",
+        "price_per_month": 1263,
+        "duration": "11 months",
+        "contact": {
+            "email": "user106@ufl.edu",
+            "phone": "(555) 407-6625"
+        },
+        "location": "521 Main St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.6458,
+            "longitude": -82.3364
+        },
+        "image_paths": [
+            "street_data/apartment_0274.jpg",
+            "street_data/apartment_0973.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 107 Downtown",
+        "price_per_month": 1151,
+        "duration": "4 months",
+        "contact": {
+            "email": "user107@ufl.edu",
+            "phone": "(555) 622-4503"
+        },
+        "location": "443 Main St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.6468,
+            "longitude": -82.3497
+        },
+        "image_paths": [
+            "street_data/apartment_0940.jpg",
+            "street_data/apartment_0215.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 108 Downtown",
+        "price_per_month": 1287,
+        "duration": "8 months",
+        "contact": {
+            "email": "user108@ufl.edu",
+            "phone": "(555) 879-6061"
+        },
+        "location": "412 Main St, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.6536,
+            "longitude": -82.3479
+        },
+        "image_paths": [
+            "street_data/apartment_0656.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 109 Downtown",
+        "price_per_month": 1206,
+        "duration": "9 months",
+        "contact": {
+            "email": "user109@ufl.edu",
+            "phone": "(555) 249-4245"
+        },
+        "location": "492 Main St, Gainesville, FL 32609",
+        "coordinates": {
+            "latitude": 29.6445,
+            "longitude": -82.3431
+        },
+        "image_paths": [
+            "street_data/apartment_0890.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 110 Downtown",
+        "price_per_month": 807,
+        "duration": "3 months",
+        "contact": {
+            "email": "user110@ufl.edu",
+            "phone": "(555) 893-7464"
+        },
+        "location": "223 Main St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.6639,
+            "longitude": -82.3482
+        },
+        "image_paths": [
+            "street_data/apartment_0832.jpg",
+            "street_data/apartment_0735.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 111 Downtown",
+        "price_per_month": 1106,
+        "duration": "9 months",
+        "contact": {
+            "email": "user111@ufl.edu",
+            "phone": "(555) 404-8918"
+        },
+        "location": "434 Main St, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.6553,
+            "longitude": -82.3241
+        },
+        "image_paths": [
+            "street_data/apartment_0181.jpg",
+            "street_data/apartment_0486.jpg",
+            "street_data/apartment_0333.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 112 Downtown",
+        "price_per_month": 1280,
+        "duration": "3 months",
+        "contact": {
+            "email": "user112@ufl.edu",
+            "phone": "(555) 829-7194"
+        },
+        "location": "288 Main St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.6415,
+            "longitude": -82.3304
+        },
+        "image_paths": [
+            "street_data/apartment_0371.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 113 Downtown",
+        "price_per_month": 1148,
+        "duration": "9 months",
+        "contact": {
+            "email": "user113@ufl.edu",
+            "phone": "(555) 957-4192"
+        },
+        "location": "723 Main St, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.6493,
+            "longitude": -82.3279
+        },
+        "image_paths": [
+            "street_data/apartment_0230.jpg",
+            "street_data/apartment_0951.jpg",
+            "street_data/apartment_0283.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 114 Downtown",
+        "price_per_month": 1315,
+        "duration": "10 months",
+        "contact": {
+            "email": "user114@ufl.edu",
+            "phone": "(555) 101-6675"
+        },
+        "location": "848 Main St, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.6513,
+            "longitude": -82.3236
+        },
+        "image_paths": [
+            "street_data/apartment_0119.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 115 Downtown",
+        "price_per_month": 950,
+        "duration": "9 months",
+        "contact": {
+            "email": "user115@ufl.edu",
+            "phone": "(555) 161-3484"
+        },
+        "location": "261 Main St, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.6635,
+            "longitude": -82.344
+        },
+        "image_paths": [
+            "street_data/apartment_0979.jpg",
+            "street_data/apartment_0560.jpg",
+            "street_data/apartment_0295.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 116 Downtown",
+        "price_per_month": 971,
+        "duration": "7 months",
+        "contact": {
+            "email": "user116@ufl.edu",
+            "phone": "(555) 504-8063"
+        },
+        "location": "873 Main St, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.6556,
+            "longitude": -82.3449
+        },
+        "image_paths": [
+            "street_data/apartment_0348.jpg",
+            "street_data/apartment_0750.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 117 Downtown",
+        "price_per_month": 837,
+        "duration": "12 months",
+        "contact": {
+            "email": "user117@ufl.edu",
+            "phone": "(555) 976-9767"
+        },
+        "location": "692 Main St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.6658,
+            "longitude": -82.3275
+        },
+        "image_paths": [
+            "street_data/apartment_0213.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 118 Downtown",
+        "price_per_month": 1112,
+        "duration": "5 months",
+        "contact": {
+            "email": "user118@ufl.edu",
+            "phone": "(555) 206-3814"
+        },
+        "location": "592 Main St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.6599,
+            "longitude": -82.322
+        },
+        "image_paths": [
+            "street_data/apartment_0474.jpg",
+            "street_data/apartment_0072.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 119 Downtown",
+        "price_per_month": 1215,
+        "duration": "9 months",
+        "contact": {
+            "email": "user119@ufl.edu",
+            "phone": "(555) 630-4044"
+        },
+        "location": "208 Main St, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.6471,
+            "longitude": -82.3352
+        },
+        "image_paths": [
+            "street_data/apartment_0440.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 120 Downtown",
+        "price_per_month": 1028,
+        "duration": "9 months",
+        "contact": {
+            "email": "user120@ufl.edu",
+            "phone": "(555) 385-5128"
+        },
+        "location": "775 Main St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.6408,
+            "longitude": -82.3269
+        },
+        "image_paths": [
+            "street_data/apartment_0304.jpg",
+            "street_data/apartment_0083.jpg",
+            "street_data/apartment_0439.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 121 Downtown",
+        "price_per_month": 1117,
+        "duration": "12 months",
+        "contact": {
+            "email": "user121@ufl.edu",
+            "phone": "(555) 415-2311"
+        },
+        "location": "906 Main St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.6426,
+            "longitude": -82.3406
+        },
+        "image_paths": [
+            "street_data/apartment_0847.jpg",
+            "street_data/apartment_0794.jpg",
+            "street_data/apartment_0289.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 122 Downtown",
+        "price_per_month": 993,
+        "duration": "11 months",
+        "contact": {
+            "email": "user122@ufl.edu",
+            "phone": "(555) 786-6371"
+        },
+        "location": "937 Main St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.6481,
+            "longitude": -82.3324
+        },
+        "image_paths": [
+            "street_data/apartment_0733.jpg",
+            "street_data/apartment_0074.jpg",
+            "street_data/apartment_0976.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 123 Downtown",
+        "price_per_month": 997,
+        "duration": "3 months",
+        "contact": {
+            "email": "user123@ufl.edu",
+            "phone": "(555) 531-3270"
+        },
+        "location": "866 Main St, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.6562,
+            "longitude": -82.3422
+        },
+        "image_paths": [
+            "street_data/apartment_0520.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 124 Downtown",
+        "price_per_month": 1470,
+        "duration": "7 months",
+        "contact": {
+            "email": "user124@ufl.edu",
+            "phone": "(555) 420-5943"
+        },
+        "location": "212 Main St, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.6524,
+            "longitude": -82.3223
+        },
+        "image_paths": [
+            "street_data/apartment_0254.jpg",
+            "street_data/apartment_0820.jpg",
+            "street_data/apartment_0019.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 125 Downtown",
+        "price_per_month": 1102,
+        "duration": "12 months",
+        "contact": {
+            "email": "user125@ufl.edu",
+            "phone": "(555) 494-3133"
+        },
+        "location": "909 Main St, Gainesville, FL 32609",
+        "coordinates": {
+            "latitude": 29.6668,
+            "longitude": -82.3302
+        },
+        "image_paths": [
+            "street_data/apartment_0600.jpg",
+            "street_data/apartment_0713.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 126 Downtown",
+        "price_per_month": 1270,
+        "duration": "8 months",
+        "contact": {
+            "email": "user126@ufl.edu",
+            "phone": "(555) 649-5919"
+        },
+        "location": "114 Main St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.6489,
+            "longitude": -82.3281
+        },
+        "image_paths": [
+            "street_data/apartment_0085.jpg",
+            "street_data/apartment_0557.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 127 Downtown",
+        "price_per_month": 811,
+        "duration": "3 months",
+        "contact": {
+            "email": "user127@ufl.edu",
+            "phone": "(555) 707-2742"
+        },
+        "location": "439 Main St, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.6419,
+            "longitude": -82.3204
+        },
+        "image_paths": [
+            "street_data/apartment_0968.jpg",
+            "street_data/apartment_0440.jpg",
+            "street_data/apartment_0052.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 128 Downtown",
+        "price_per_month": 1198,
+        "duration": "9 months",
+        "contact": {
+            "email": "user128@ufl.edu",
+            "phone": "(555) 142-2955"
+        },
+        "location": "639 Main St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.6578,
+            "longitude": -82.3428
+        },
+        "image_paths": [
+            "street_data/apartment_0828.jpg",
+            "street_data/apartment_0966.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 129 Downtown",
+        "price_per_month": 1447,
+        "duration": "10 months",
+        "contact": {
+            "email": "user129@ufl.edu",
+            "phone": "(555) 742-9955"
+        },
+        "location": "324 Main St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.6457,
+            "longitude": -82.3378
+        },
+        "image_paths": [
+            "street_data/apartment_0963.jpg",
+            "street_data/apartment_0985.jpg",
+            "street_data/apartment_0778.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 130 Downtown",
+        "price_per_month": 885,
+        "duration": "4 months",
+        "contact": {
+            "email": "user130@ufl.edu",
+            "phone": "(555) 558-1028"
+        },
+        "location": "737 Main St, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.6505,
+            "longitude": -82.3254
+        },
+        "image_paths": [
+            "street_data/apartment_0611.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 131 Downtown",
+        "price_per_month": 1283,
+        "duration": "12 months",
+        "contact": {
+            "email": "user131@ufl.edu",
+            "phone": "(555) 219-2480"
+        },
+        "location": "903 Main St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.6576,
+            "longitude": -82.3422
+        },
+        "image_paths": [
+            "street_data/apartment_0635.jpg",
+            "street_data/apartment_0595.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 132 Downtown",
+        "price_per_month": 860,
+        "duration": "6 months",
+        "contact": {
+            "email": "user132@ufl.edu",
+            "phone": "(555) 251-4651"
+        },
+        "location": "116 Main St, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.6665,
+            "longitude": -82.3402
+        },
+        "image_paths": [
+            "street_data/apartment_0648.jpg",
+            "street_data/apartment_0000.jpg",
+            "street_data/apartment_0175.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 133 Downtown",
+        "price_per_month": 1489,
+        "duration": "3 months",
+        "contact": {
+            "email": "user133@ufl.edu",
+            "phone": "(555) 619-4023"
+        },
+        "location": "193 Main St, Gainesville, FL 32609",
+        "coordinates": {
+            "latitude": 29.6472,
+            "longitude": -82.3423
+        },
+        "image_paths": [
+            "street_data/apartment_0463.jpg",
+            "street_data/apartment_0441.jpg",
+            "street_data/apartment_0608.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 134 Downtown",
+        "price_per_month": 1191,
+        "duration": "8 months",
+        "contact": {
+            "email": "user134@ufl.edu",
+            "phone": "(555) 919-8680"
+        },
+        "location": "919 Main St, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.6651,
+            "longitude": -82.3405
+        },
+        "image_paths": [
+            "street_data/apartment_0489.jpg",
+            "street_data/apartment_0662.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 135 Downtown",
+        "price_per_month": 817,
+        "duration": "10 months",
+        "contact": {
+            "email": "user135@ufl.edu",
+            "phone": "(555) 824-1426"
+        },
+        "location": "348 Main St, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.6568,
+            "longitude": -82.3377
+        },
+        "image_paths": [
+            "street_data/apartment_0334.jpg",
+            "street_data/apartment_0342.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 136 Downtown",
+        "price_per_month": 843,
+        "duration": "6 months",
+        "contact": {
+            "email": "user136@ufl.edu",
+            "phone": "(555) 292-8886"
+        },
+        "location": "635 Main St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.6467,
+            "longitude": -82.3268
+        },
+        "image_paths": [
+            "street_data/apartment_0833.jpg",
+            "street_data/apartment_0861.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 137 Downtown",
+        "price_per_month": 1484,
+        "duration": "4 months",
+        "contact": {
+            "email": "user137@ufl.edu",
+            "phone": "(555) 661-4880"
+        },
+        "location": "372 Main St, Gainesville, FL 32609",
+        "coordinates": {
+            "latitude": 29.6424,
+            "longitude": -82.3336
+        },
+        "image_paths": [
+            "street_data/apartment_0209.jpg",
+            "street_data/apartment_0821.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 138 Downtown",
+        "price_per_month": 1340,
+        "duration": "12 months",
+        "contact": {
+            "email": "user138@ufl.edu",
+            "phone": "(555) 725-7113"
+        },
+        "location": "625 Main St, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.6405,
+            "longitude": -82.3323
+        },
+        "image_paths": [
+            "street_data/apartment_0962.jpg",
+            "street_data/apartment_0021.jpg",
+            "street_data/apartment_0532.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 139 Downtown",
+        "price_per_month": 889,
+        "duration": "3 months",
+        "contact": {
+            "email": "user139@ufl.edu",
+            "phone": "(555) 364-5853"
+        },
+        "location": "801 Main St, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.6416,
+            "longitude": -82.3377
+        },
+        "image_paths": [
+            "street_data/apartment_0311.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 140 Downtown",
+        "price_per_month": 1190,
+        "duration": "6 months",
+        "contact": {
+            "email": "user140@ufl.edu",
+            "phone": "(555) 515-2026"
+        },
+        "location": "737 Main St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.6568,
+            "longitude": -82.3298
+        },
+        "image_paths": [
+            "street_data/apartment_0281.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 141 Downtown",
+        "price_per_month": 906,
+        "duration": "7 months",
+        "contact": {
+            "email": "user141@ufl.edu",
+            "phone": "(555) 396-2379"
+        },
+        "location": "931 Main St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.6563,
+            "longitude": -82.3397
+        },
+        "image_paths": [
+            "street_data/apartment_0564.jpg",
+            "street_data/apartment_0597.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 142 Downtown",
+        "price_per_month": 1492,
+        "duration": "12 months",
+        "contact": {
+            "email": "user142@ufl.edu",
+            "phone": "(555) 563-7313"
+        },
+        "location": "301 Main St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.6667,
+            "longitude": -82.322
+        },
+        "image_paths": [
+            "street_data/apartment_0650.jpg",
+            "street_data/apartment_0540.jpg",
+            "street_data/apartment_0384.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 143 Downtown",
+        "price_per_month": 1361,
+        "duration": "3 months",
+        "contact": {
+            "email": "user143@ufl.edu",
+            "phone": "(555) 360-5012"
+        },
+        "location": "904 Main St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.6683,
+            "longitude": -82.3251
+        },
+        "image_paths": [
+            "street_data/apartment_0028.jpg",
+            "street_data/apartment_0588.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 144 Downtown",
+        "price_per_month": 1450,
+        "duration": "8 months",
+        "contact": {
+            "email": "user144@ufl.edu",
+            "phone": "(555) 650-3974"
+        },
+        "location": "906 Main St, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.6455,
+            "longitude": -82.3352
+        },
+        "image_paths": [
+            "street_data/apartment_0041.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 145 Downtown",
+        "price_per_month": 1145,
+        "duration": "8 months",
+        "contact": {
+            "email": "user145@ufl.edu",
+            "phone": "(555) 707-6632"
+        },
+        "location": "739 Main St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.6411,
+            "longitude": -82.339
+        },
+        "image_paths": [
+            "street_data/apartment_0731.jpg",
+            "street_data/apartment_0531.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 146 Downtown",
+        "price_per_month": 1477,
+        "duration": "3 months",
+        "contact": {
+            "email": "user146@ufl.edu",
+            "phone": "(555) 987-1622"
+        },
+        "location": "284 Main St, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.6413,
+            "longitude": -82.3221
+        },
+        "image_paths": [
+            "street_data/apartment_0178.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 147 Downtown",
+        "price_per_month": 1408,
+        "duration": "8 months",
+        "contact": {
+            "email": "user147@ufl.edu",
+            "phone": "(555) 262-4492"
+        },
+        "location": "195 Main St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.6688,
+            "longitude": -82.3275
+        },
+        "image_paths": [
+            "street_data/apartment_0725.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 148 Downtown",
+        "price_per_month": 1129,
+        "duration": "4 months",
+        "contact": {
+            "email": "user148@ufl.edu",
+            "phone": "(555) 673-7353"
+        },
+        "location": "482 Main St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.6475,
+            "longitude": -82.3457
+        },
+        "image_paths": [
+            "street_data/apartment_0206.jpg",
+            "street_data/apartment_0796.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 149 Downtown",
+        "price_per_month": 1135,
+        "duration": "8 months",
+        "contact": {
+            "email": "user149@ufl.edu",
+            "phone": "(555) 217-9533"
+        },
+        "location": "717 Main St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.6509,
+            "longitude": -82.3406
+        },
+        "image_paths": [
+            "street_data/apartment_0457.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 150 Downtown",
+        "price_per_month": 1194,
+        "duration": "3 months",
+        "contact": {
+            "email": "user150@ufl.edu",
+            "phone": "(555) 501-2729"
+        },
+        "location": "137 Main St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.6506,
+            "longitude": -82.3227
+        },
+        "image_paths": [
+            "street_data/apartment_0618.jpg",
+            "street_data/apartment_0321.jpg",
+            "street_data/apartment_0908.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 151 Downtown",
+        "price_per_month": 984,
+        "duration": "3 months",
+        "contact": {
+            "email": "user151@ufl.edu",
+            "phone": "(555) 532-4260"
+        },
+        "location": "920 Main St, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.6654,
+            "longitude": -82.3272
+        },
+        "image_paths": [
+            "street_data/apartment_0729.jpg",
+            "street_data/apartment_0706.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 152 Downtown",
+        "price_per_month": 945,
+        "duration": "3 months",
+        "contact": {
+            "email": "user152@ufl.edu",
+            "phone": "(555) 848-2933"
+        },
+        "location": "904 Main St, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.6615,
+            "longitude": -82.3416
+        },
+        "image_paths": [
+            "street_data/apartment_0928.jpg",
+            "street_data/apartment_0859.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 153 Downtown",
+        "price_per_month": 1284,
+        "duration": "10 months",
+        "contact": {
+            "email": "user153@ufl.edu",
+            "phone": "(555) 456-3183"
+        },
+        "location": "487 Main St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.6652,
+            "longitude": -82.3353
+        },
+        "image_paths": [
+            "street_data/apartment_0870.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 154 Downtown",
+        "price_per_month": 949,
+        "duration": "4 months",
+        "contact": {
+            "email": "user154@ufl.edu",
+            "phone": "(555) 529-6646"
+        },
+        "location": "128 Main St, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.6519,
+            "longitude": -82.338
+        },
+        "image_paths": [
+            "street_data/apartment_0853.jpg",
+            "street_data/apartment_0673.jpg",
+            "street_data/apartment_0764.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 155 Downtown",
+        "price_per_month": 1393,
+        "duration": "5 months",
+        "contact": {
+            "email": "user155@ufl.edu",
+            "phone": "(555) 580-5226"
+        },
+        "location": "202 Main St, Gainesville, FL 32609",
+        "coordinates": {
+            "latitude": 29.6471,
+            "longitude": -82.349
+        },
+        "image_paths": [
+            "street_data/apartment_0581.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 156 Downtown",
+        "price_per_month": 837,
+        "duration": "9 months",
+        "contact": {
+            "email": "user156@ufl.edu",
+            "phone": "(555) 881-3193"
+        },
+        "location": "776 Main St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.6649,
+            "longitude": -82.3367
+        },
+        "image_paths": [
+            "street_data/apartment_0911.jpg",
+            "street_data/apartment_0292.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 157 Downtown",
+        "price_per_month": 1134,
+        "duration": "11 months",
+        "contact": {
+            "email": "user157@ufl.edu",
+            "phone": "(555) 120-7276"
+        },
+        "location": "755 Main St, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.6457,
+            "longitude": -82.3371
+        },
+        "image_paths": [
+            "street_data/apartment_0630.jpg",
+            "street_data/apartment_0264.jpg",
+            "street_data/apartment_0635.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 158 Downtown",
+        "price_per_month": 879,
+        "duration": "5 months",
+        "contact": {
+            "email": "user158@ufl.edu",
+            "phone": "(555) 916-1384"
+        },
+        "location": "477 Main St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.6641,
+            "longitude": -82.3485
+        },
+        "image_paths": [
+            "street_data/apartment_0765.jpg",
+            "street_data/apartment_0554.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 159 Downtown",
+        "price_per_month": 1425,
+        "duration": "3 months",
+        "contact": {
+            "email": "user159@ufl.edu",
+            "phone": "(555) 464-8441"
+        },
+        "location": "299 Main St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.6405,
+            "longitude": -82.3477
+        },
+        "image_paths": [
+            "street_data/apartment_0238.jpg",
+            "street_data/apartment_0155.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 160 Downtown",
+        "price_per_month": 1358,
+        "duration": "4 months",
+        "contact": {
+            "email": "user160@ufl.edu",
+            "phone": "(555) 504-8008"
+        },
+        "location": "953 Main St, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.6581,
+            "longitude": -82.3437
+        },
+        "image_paths": [
+            "street_data/apartment_0136.jpg",
+            "street_data/apartment_0351.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 161 Downtown",
+        "price_per_month": 1375,
+        "duration": "10 months",
+        "contact": {
+            "email": "user161@ufl.edu",
+            "phone": "(555) 853-1292"
+        },
+        "location": "294 Main St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.6517,
+            "longitude": -82.3313
+        },
+        "image_paths": [
+            "street_data/apartment_0113.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 162 Downtown",
+        "price_per_month": 1350,
+        "duration": "11 months",
+        "contact": {
+            "email": "user162@ufl.edu",
+            "phone": "(555) 284-8820"
+        },
+        "location": "698 Main St, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.6697,
+            "longitude": -82.328
+        },
+        "image_paths": [
+            "street_data/apartment_0705.jpg",
+            "street_data/apartment_0130.jpg",
+            "street_data/apartment_0422.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 163 Downtown",
+        "price_per_month": 1124,
+        "duration": "12 months",
+        "contact": {
+            "email": "user163@ufl.edu",
+            "phone": "(555) 358-4422"
+        },
+        "location": "596 Main St, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.6647,
+            "longitude": -82.3253
+        },
+        "image_paths": [
+            "street_data/apartment_0377.jpg",
+            "street_data/apartment_0500.jpg",
+            "street_data/apartment_0936.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 164 Downtown",
+        "price_per_month": 1414,
+        "duration": "5 months",
+        "contact": {
+            "email": "user164@ufl.edu",
+            "phone": "(555) 155-5636"
+        },
+        "location": "908 Main St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.6695,
+            "longitude": -82.3427
+        },
+        "image_paths": [
+            "street_data/apartment_0466.jpg",
+            "street_data/apartment_0256.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 165 Downtown",
+        "price_per_month": 1151,
+        "duration": "7 months",
+        "contact": {
+            "email": "user165@ufl.edu",
+            "phone": "(555) 756-9672"
+        },
+        "location": "539 Main St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.6663,
+            "longitude": -82.3241
+        },
+        "image_paths": [
+            "street_data/apartment_0448.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 166 Downtown",
+        "price_per_month": 1311,
+        "duration": "5 months",
+        "contact": {
+            "email": "user166@ufl.edu",
+            "phone": "(555) 536-7837"
+        },
+        "location": "818 Main St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.6537,
+            "longitude": -82.3254
+        },
+        "image_paths": [
+            "street_data/apartment_0406.jpg",
+            "street_data/apartment_0139.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 167 Downtown",
+        "price_per_month": 919,
+        "duration": "4 months",
+        "contact": {
+            "email": "user167@ufl.edu",
+            "phone": "(555) 967-9377"
+        },
+        "location": "395 Main St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.6606,
+            "longitude": -82.3261
+        },
+        "image_paths": [
+            "street_data/apartment_0383.jpg",
+            "street_data/apartment_0288.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 168 Downtown",
+        "price_per_month": 977,
+        "duration": "7 months",
+        "contact": {
+            "email": "user168@ufl.edu",
+            "phone": "(555) 243-5287"
+        },
+        "location": "355 Main St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.6417,
+            "longitude": -82.3241
+        },
+        "image_paths": [
+            "street_data/apartment_0420.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 169 Downtown",
+        "price_per_month": 942,
+        "duration": "7 months",
+        "contact": {
+            "email": "user169@ufl.edu",
+            "phone": "(555) 517-8801"
+        },
+        "location": "785 Main St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.6531,
+            "longitude": -82.325
+        },
+        "image_paths": [
+            "street_data/apartment_0927.jpg",
+            "street_data/apartment_0593.jpg",
+            "street_data/apartment_0337.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 170 Downtown",
+        "price_per_month": 1045,
+        "duration": "3 months",
+        "contact": {
+            "email": "user170@ufl.edu",
+            "phone": "(555) 734-3495"
+        },
+        "location": "176 Main St, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.6407,
+            "longitude": -82.3381
+        },
+        "image_paths": [
+            "street_data/apartment_0477.jpg",
+            "street_data/apartment_0556.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 171 Downtown",
+        "price_per_month": 1179,
+        "duration": "12 months",
+        "contact": {
+            "email": "user171@ufl.edu",
+            "phone": "(555) 399-2011"
+        },
+        "location": "556 Main St, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.6514,
+            "longitude": -82.3281
+        },
+        "image_paths": [
+            "street_data/apartment_0933.jpg",
+            "street_data/apartment_0364.jpg",
+            "street_data/apartment_0034.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 172 Downtown",
+        "price_per_month": 1433,
+        "duration": "6 months",
+        "contact": {
+            "email": "user172@ufl.edu",
+            "phone": "(555) 838-1296"
+        },
+        "location": "728 Main St, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.6653,
+            "longitude": -82.3486
+        },
+        "image_paths": [
+            "street_data/apartment_0182.jpg",
+            "street_data/apartment_0224.jpg",
+            "street_data/apartment_0794.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 173 Downtown",
+        "price_per_month": 1075,
+        "duration": "9 months",
+        "contact": {
+            "email": "user173@ufl.edu",
+            "phone": "(555) 423-2570"
+        },
+        "location": "510 Main St, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.655,
+            "longitude": -82.3289
+        },
+        "image_paths": [
+            "street_data/apartment_0703.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 174 Downtown",
+        "price_per_month": 1395,
+        "duration": "9 months",
+        "contact": {
+            "email": "user174@ufl.edu",
+            "phone": "(555) 662-2408"
+        },
+        "location": "348 Main St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.6403,
+            "longitude": -82.3298
+        },
+        "image_paths": [
+            "street_data/apartment_0562.jpg",
+            "street_data/apartment_0438.jpg",
+            "street_data/apartment_0874.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 175 Downtown",
+        "price_per_month": 1136,
+        "duration": "5 months",
+        "contact": {
+            "email": "user175@ufl.edu",
+            "phone": "(555) 250-7162"
+        },
+        "location": "467 Main St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.6582,
+            "longitude": -82.3265
+        },
+        "image_paths": [
+            "street_data/apartment_0624.jpg",
+            "street_data/apartment_0308.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 176 Downtown",
+        "price_per_month": 1241,
+        "duration": "8 months",
+        "contact": {
+            "email": "user176@ufl.edu",
+            "phone": "(555) 849-2937"
+        },
+        "location": "752 Main St, Gainesville, FL 32609",
+        "coordinates": {
+            "latitude": 29.6502,
+            "longitude": -82.34
+        },
+        "image_paths": [
+            "street_data/apartment_0256.jpg",
+            "street_data/apartment_0598.jpg",
+            "street_data/apartment_0644.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 177 Downtown",
+        "price_per_month": 1249,
+        "duration": "4 months",
+        "contact": {
+            "email": "user177@ufl.edu",
+            "phone": "(555) 861-1582"
+        },
+        "location": "546 Main St, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.6586,
+            "longitude": -82.3354
+        },
+        "image_paths": [
+            "street_data/apartment_0807.jpg",
+            "street_data/apartment_0741.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 178 Downtown",
+        "price_per_month": 947,
+        "duration": "7 months",
+        "contact": {
+            "email": "user178@ufl.edu",
+            "phone": "(555) 849-1184"
+        },
+        "location": "459 Main St, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.6501,
+            "longitude": -82.3221
+        },
+        "image_paths": [
+            "street_data/apartment_0505.jpg",
+            "street_data/apartment_0136.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 179 Downtown",
+        "price_per_month": 823,
+        "duration": "12 months",
+        "contact": {
+            "email": "user179@ufl.edu",
+            "phone": "(555) 174-1575"
+        },
+        "location": "636 Main St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.6426,
+            "longitude": -82.3317
+        },
+        "image_paths": [
+            "street_data/apartment_0025.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 180 Downtown",
+        "price_per_month": 1191,
+        "duration": "8 months",
+        "contact": {
+            "email": "user180@ufl.edu",
+            "phone": "(555) 647-8865"
+        },
+        "location": "980 Main St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.6501,
+            "longitude": -82.3438
+        },
+        "image_paths": [
+            "street_data/apartment_0304.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 181 Downtown",
+        "price_per_month": 1119,
+        "duration": "7 months",
+        "contact": {
+            "email": "user181@ufl.edu",
+            "phone": "(555) 346-7914"
+        },
+        "location": "720 Main St, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.6488,
+            "longitude": -82.3267
+        },
+        "image_paths": [
+            "street_data/apartment_0955.jpg",
+            "street_data/apartment_0801.jpg",
+            "street_data/apartment_0235.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 182 Downtown",
+        "price_per_month": 1271,
+        "duration": "4 months",
+        "contact": {
+            "email": "user182@ufl.edu",
+            "phone": "(555) 483-8234"
+        },
+        "location": "260 Main St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.6631,
+            "longitude": -82.3247
+        },
+        "image_paths": [
+            "street_data/apartment_0435.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 183 Downtown",
+        "price_per_month": 1039,
+        "duration": "10 months",
+        "contact": {
+            "email": "user183@ufl.edu",
+            "phone": "(555) 330-5081"
+        },
+        "location": "740 Main St, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.6436,
+            "longitude": -82.3469
+        },
+        "image_paths": [
+            "street_data/apartment_0357.jpg",
+            "street_data/apartment_0037.jpg",
+            "street_data/apartment_0855.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 184 Downtown",
+        "price_per_month": 1052,
+        "duration": "6 months",
+        "contact": {
+            "email": "user184@ufl.edu",
+            "phone": "(555) 576-2940"
+        },
+        "location": "978 Main St, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.6426,
+            "longitude": -82.3237
+        },
+        "image_paths": [
+            "street_data/apartment_0747.jpg",
+            "street_data/apartment_0046.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 185 Downtown",
+        "price_per_month": 901,
+        "duration": "7 months",
+        "contact": {
+            "email": "user185@ufl.edu",
+            "phone": "(555) 640-8722"
+        },
+        "location": "442 Main St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.6484,
+            "longitude": -82.3227
+        },
+        "image_paths": [
+            "street_data/apartment_0743.jpg",
+            "street_data/apartment_0396.jpg",
+            "street_data/apartment_0365.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 186 Downtown",
+        "price_per_month": 963,
+        "duration": "12 months",
+        "contact": {
+            "email": "user186@ufl.edu",
+            "phone": "(555) 668-7828"
+        },
+        "location": "123 Main St, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.64,
+            "longitude": -82.338
+        },
+        "image_paths": [
+            "street_data/apartment_0173.jpg",
+            "street_data/apartment_0059.jpg",
+            "street_data/apartment_0759.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 187 Downtown",
+        "price_per_month": 1337,
+        "duration": "5 months",
+        "contact": {
+            "email": "user187@ufl.edu",
+            "phone": "(555) 880-2322"
+        },
+        "location": "539 Main St, Gainesville, FL 32608",
+        "coordinates": {
+            "latitude": 29.6621,
+            "longitude": -82.3244
+        },
+        "image_paths": [
+            "street_data/apartment_0356.jpg",
+            "street_data/apartment_0284.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 188 Downtown",
+        "price_per_month": 1383,
+        "duration": "12 months",
+        "contact": {
+            "email": "user188@ufl.edu",
+            "phone": "(555) 441-6004"
+        },
+        "location": "884 Main St, Gainesville, FL 32605",
+        "coordinates": {
+            "latitude": 29.6585,
+            "longitude": -82.3457
+        },
+        "image_paths": [
+            "street_data/apartment_0899.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 189 Downtown",
+        "price_per_month": 1402,
+        "duration": "8 months",
+        "contact": {
+            "email": "user189@ufl.edu",
+            "phone": "(555) 187-9020"
+        },
+        "location": "104 Main St, Gainesville, FL 32609",
+        "coordinates": {
+            "latitude": 29.6469,
+            "longitude": -82.3286
+        },
+        "image_paths": [
+            "street_data/apartment_0675.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 190 Downtown",
+        "price_per_month": 963,
+        "duration": "6 months",
+        "contact": {
+            "email": "user190@ufl.edu",
+            "phone": "(555) 490-3567"
+        },
+        "location": "133 Main St, Gainesville, FL 32601",
+        "coordinates": {
+            "latitude": 29.6478,
+            "longitude": -82.3311
+        },
+        "image_paths": [
+            "street_data/apartment_0332.jpg",
+            "street_data/apartment_0202.jpg",
+            "street_data/apartment_0467.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 191 Downtown",
+        "price_per_month": 1217,
+        "duration": "12 months",
+        "contact": {
+            "email": "user191@ufl.edu",
+            "phone": "(555) 965-5510"
+        },
+        "location": "131 Main St, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.6512,
+            "longitude": -82.3367
+        },
+        "image_paths": [
+            "street_data/apartment_0723.jpg",
+            "street_data/apartment_0380.jpg",
+            "street_data/apartment_0996.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 192 Downtown",
+        "price_per_month": 1041,
+        "duration": "6 months",
+        "contact": {
+            "email": "user192@ufl.edu",
+            "phone": "(555) 475-8746"
+        },
+        "location": "508 Main St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.6504,
+            "longitude": -82.3255
+        },
+        "image_paths": [
+            "street_data/apartment_0448.jpg",
+            "street_data/apartment_0868.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 193 Downtown",
+        "price_per_month": 1078,
+        "duration": "4 months",
+        "contact": {
+            "email": "user193@ufl.edu",
+            "phone": "(555) 165-6046"
+        },
+        "location": "192 Main St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.6553,
+            "longitude": -82.3282
+        },
+        "image_paths": [
+            "street_data/apartment_0922.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 194 Downtown",
+        "price_per_month": 1386,
+        "duration": "5 months",
+        "contact": {
+            "email": "user194@ufl.edu",
+            "phone": "(555) 799-5407"
+        },
+        "location": "541 Main St, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.6548,
+            "longitude": -82.3203
+        },
+        "image_paths": [
+            "street_data/apartment_0127.jpg",
+            "street_data/apartment_0552.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 195 Downtown",
+        "price_per_month": 1329,
+        "duration": "10 months",
+        "contact": {
+            "email": "user195@ufl.edu",
+            "phone": "(555) 645-8405"
+        },
+        "location": "278 Main St, Gainesville, FL 32607",
+        "coordinates": {
+            "latitude": 29.6539,
+            "longitude": -82.3399
+        },
+        "image_paths": [
+            "street_data/apartment_0563.jpg",
+            "street_data/apartment_0899.jpg",
+            "street_data/apartment_0291.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 196 Downtown",
+        "price_per_month": 1231,
+        "duration": "12 months",
+        "contact": {
+            "email": "user196@ufl.edu",
+            "phone": "(555) 876-8116"
+        },
+        "location": "171 Main St, Gainesville, FL 32609",
+        "coordinates": {
+            "latitude": 29.6676,
+            "longitude": -82.3483
+        },
+        "image_paths": [
+            "street_data/apartment_0108.jpg",
+            "street_data/apartment_0031.jpg",
+            "street_data/apartment_0670.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 197 Downtown",
+        "price_per_month": 1062,
+        "duration": "5 months",
+        "contact": {
+            "email": "user197@ufl.edu",
+            "phone": "(555) 421-7903"
+        },
+        "location": "449 Main St, Gainesville, FL 32606",
+        "coordinates": {
+            "latitude": 29.6553,
+            "longitude": -82.3444
+        },
+        "image_paths": [
+            "street_data/apartment_0803.jpg",
+            "street_data/apartment_0490.jpg",
+            "street_data/apartment_0847.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 198 Downtown",
+        "price_per_month": 1392,
+        "duration": "10 months",
+        "contact": {
+            "email": "user198@ufl.edu",
+            "phone": "(555) 377-9168"
+        },
+        "location": "420 Main St, Gainesville, FL 32603",
+        "coordinates": {
+            "latitude": 29.6629,
+            "longitude": -82.3466
+        },
+        "image_paths": [
+            "street_data/apartment_0966.jpg",
+            "street_data/apartment_0738.jpg",
+            "street_data/apartment_0707.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 199 Downtown",
+        "price_per_month": 1140,
+        "duration": "6 months",
+        "contact": {
+            "email": "user199@ufl.edu",
+            "phone": "(555) 503-8728"
+        },
+        "location": "194 Main St, Gainesville, FL 32602",
+        "coordinates": {
+            "latitude": 29.6508,
+            "longitude": -82.3297
+        },
+        "image_paths": [
+            "street_data/apartment_0830.jpg",
+            "street_data/apartment_0946.jpg",
+            "street_data/apartment_0819.jpg"
+        ]
+    },
+    {
+        "name": "Apartment 200 Downtown",
+        "price_per_month": 1201,
+        "duration": "4 months",
+        "contact": {
+            "email": "user200@ufl.edu",
+            "phone": "(555) 142-1782"
+        },
+        "location": "280 Main St, Gainesville, FL 32604",
+        "coordinates": {
+            "latitude": 29.6431,
+            "longitude": -82.331
+        },
+        "image_paths": [
+            "street_data/apartment_0024.jpg",
+            "street_data/apartment_0569.jpg",
+            "street_data/apartment_0673.jpg"
+        ]
+    }
+]
