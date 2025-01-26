@@ -31,8 +31,8 @@ const loadGoogleMapsScript = () => {
 // Function to geocode the ZIP code
 const geocodeZipCode = async (zipCode) => {
   if (!zipCode) {
-    console.error("No ZIP code provided for geocoding.");
-    return null;
+    console.warn("No ZIP code provided. Using default ZIP code 32607.");
+    zipCode = "32607";
   }
 
   try {
@@ -71,15 +71,17 @@ const MapView = ({ zipCode, listings = [] }) => {
         const location = await geocodeZipCode(zipCode);
 
         if (!location) {
-          console.error("Invalid or missing ZIP code. Cannot initialize the map.");
-          return;
+          console.warn("Invalid ZIP code. Using default location for 32607.");
+          zipCode = "32607";
         }
 
-        console.log("Initializing map with location:", location);
+        const validLocation = location || (await geocodeZipCode("32607"));
+
+        console.log("Initializing map with location:", validLocation);
 
         // Initialize the map
         const map = new window.google.maps.Map(mapRef.current, {
-          center: location,
+          center: validLocation,
           zoom: 12,
         });
 
@@ -107,7 +109,7 @@ const MapView = ({ zipCode, listings = [] }) => {
           map.fitBounds(bounds);
         } else {
           console.log("No listings provided. Centering map on ZIP code location.");
-          map.setCenter(location);
+          map.setCenter(validLocation);
           map.setZoom(12);
         }
       } catch (error) {
@@ -116,11 +118,7 @@ const MapView = ({ zipCode, listings = [] }) => {
     };
 
     // Ensure a ZIP code is provided before initializing the map
-    if (zipCode) {
-      initializeMap();
-    } else {
-      console.error("No ZIP code provided. Map cannot be initialized.");
-    }
+    initializeMap();
   }, [zipCode, listings]);
 
   return <div ref={mapRef} style={{ height: "500px", width: "100%" }}></div>;
