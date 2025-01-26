@@ -16,7 +16,7 @@ root.render(
   <Auth0Provider
     domain="dev-y6jfhjhzmx46i1ai.us.auth0.com"
     clientId="731digQQQ2UFmL0g18lBYYDgwOvHGkDV"
-    redirectUri={window.location.origin}
+    redirectUri="http://localhost:3000/forms"
     onRedirectCallback={onRedirectCallback}
   >
     <Router>

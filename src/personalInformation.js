@@ -17,7 +17,7 @@ function MyInformation() {
         <br />
         <label className="form-information">UFL Email:</label>
         <input type="text" />
-        <br />
+        <br/>
         <button type="submit">Save</button>
       </form>
     </div>

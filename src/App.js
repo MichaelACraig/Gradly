@@ -13,17 +13,19 @@ import { useNavigate } from "react-router-dom";
 import { useEffect } from "react";
 
 function App() {
-  const { isAuthenticated } = useAuth0();
-  const navigate = useNavigate();
+  const { isLoading, isAuthenticated, user, error } = useAuth0();
 
   useEffect(() => {
-    if (isAuthenticated) {
-      console.log("we have entered the isauthenticated portion");
-      navigate("/forms");
-    }
-  }, [isAuthenticated, navigate]);
+  console.log('isLoading:', isLoading);
+  console.log('isAuthenticated:', isAuthenticated);
+  console.log('user:', user);
+  console.log('error:', error);
+  }, [isLoading, isAuthenticated, user, error]);
+
+
 
   console.log("we are outside of the isauthenticated portion");
+
 
   return (
     <div className="App">
