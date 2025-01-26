@@ -5,10 +5,12 @@ from models import db, User, Listing
 home_routes = Blueprint('home_routes', __name__)
 user_routes = Blueprint('user_routes', __name__)
 
+# Home page routing for all it needs upon API call
 @home_routes.route('/')
 def homepage():
   return "<p>Test route, this will prompt on the homepage</p>"
 
+# Login for existing users
 @user_routes.route('/login', methods = ['POST'])
 def login():
       data = request.get_json()
@@ -21,6 +23,7 @@ def login():
 
       return jsonify({'message': f'Welcome back, {user.username}!'}), 200
 
+# Signs user up for website
 @user_routes.route('/signup')
 def signup():
   data = request.get_json()
@@ -42,7 +45,18 @@ def signup():
 
   return jsonify({'message': 'User registered successfully'}), 201
 
-@user_routes.route('/profile')
-def profile():
-  pass
+# Retrieves user's info and pulls up their profile
+@user_routes.route('/user/<int:id>', methods=['GET'])
+def get_user_profile(id):
+    user = User.query.get(id)
+    if not user:
+        return jsonify({'error': 'User not found'}), 404
+
+    return jsonify({
+        'id': user.id,
+        'username': user.username,
+        'email': user.email
+    }), 200
+
+
 
