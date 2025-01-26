@@ -64,7 +64,6 @@ const Home = () => {
         </div>
         <div className="listing-details">
           <Listings/>
-          {/* <ListingDetails listings={listings} loading={loading} /> */}
         </div>
       </div>
     </div>
