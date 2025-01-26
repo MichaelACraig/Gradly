@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import MapView from "./MapView";
 import SearchFilters from "./SearchFilters";
 import ListingDetails from "./ListingDetails";
+import Listings from "./Listings";
 import "./Home.css";
 
 const Home = () => {
@@ -63,7 +64,8 @@ const Home = () => {
           <MapView listings={listings} zipCode={zipCode} loading={loading} />
         </div>
         <div className="listing-details">
-          <ListingDetails listings={listings} loading={loading} />
+          <Listings/>
+          {/* <ListingDetails listings={listings} loading={loading} /> */}
         </div>
       </div>
     </div>

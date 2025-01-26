@@ -1,7 +1,7 @@
 import React from "react";
 import { useParams } from "react-router-dom";
-import { Card, CardContent } from "./Card";
-import { Button } from "./Button";
+import { Card, CardContent } from "../src/Card";
+import { Button } from "../src/Button";
 import { MapPin, Bed, Bath, DollarSign } from "lucide-react";
 
 const ListingDetails = ({ listings }) => {
