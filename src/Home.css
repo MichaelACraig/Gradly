@@ -1,4 +1,97 @@
-.home-welcome-message {
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-weight: 700;
-}
+/* General container styles */
+.home-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 100%;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Search filters section */
+  .search-filters {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: #f8f8f8;
+    border-bottom: 1px solid #ddd;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    z-index: 10;
+  }
+  
+  .search-filters input {
+    width: 300px;
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+  }
+  
+  .search-filters button {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  .search-filters button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Map and details container */
+  .map-details-container {
+    display: flex;
+    flex: 1;
+    height: calc(100% - 60px);
+    overflow: hidden;
+  }
+  
+  /* Map view styles */
+  .map-view {
+    flex: 2;
+    position: relative;
+  }
+  
+  #map {
+    width: 100%;
+    height: 100%;
+  }
+  
+  /* Listing details panel */
+  .listing-details {
+    flex: 1;
+    overflow-y: auto;
+    background-color: #f8f8f8;
+    border-left: 1px solid #ddd;
+    padding: 10px 15px;
+  }
+  
+  .listing-details h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .listing-details p {
+    font-size: 14px;
+    color: #555;
+    line-height: 1.5;
+  }
+  
+  .listing-details .listing {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    transition: transform 0.2s ease-in-out;
+    cursor: pointer;
+  }
+  
+  .listing-details .listing:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
