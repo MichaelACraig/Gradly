@@ -8,5 +8,6 @@ fake-useragent
 # Flask Backend
 flask
 flask-pymongo
+flask-cors
 psycopg2-binary
 pymongo

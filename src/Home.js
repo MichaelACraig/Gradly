@@ -1,25 +1,73 @@
-import React, { useEffect, useState } from "react";
+import React, { useState, useEffect } from "react";
+import MapView from "./MapView";
+import SearchFilters from "./SearchFilters";
+import ListingDetails from "./ListingDetails";
+import "./Home.css";
 
-function Home() {
-  const [inputText, setInputText] = useState("");
-  let inputHandler = (e) => {
-    var lowerCase = e.target.value.toLowerCase();
-    setInputText(lowerCase);
+const Home = () => {
+  const [zipCode, setZipCode] = useState("");
+  const [filters, setFilters] = useState({
+    priceRange: [0, 5000],
+    beds: 0,
+    baths: 0,
+    proximity: 10,
+  });
+  const [listings, setListings] = useState([]);
+  const [loading, setLoading] = useState(false);
+
+  // Fetch listings from backend
+  const fetchListings = async (zip, filterParams) => {
+    if (!zip) return;
+
+    setLoading(true);
+    try {
+      const response = await fetch(
+        `https://api.example.com/listings?zip=${zip}&priceMin=${filterParams.priceRange[0]}&priceMax=${filterParams.priceRange[1]}&beds=${filterParams.beds}&baths=${filterParams.baths}&proximity=${filterParams.proximity}`
+      );
+      const data = await response.json();
+      setListings(data.listings || []);
+    } catch (error) {
+      console.error("Error fetching listings:", error);
+      setListings([]);
+    } finally {
+      setLoading(false);
+    }
   };
-  return (
-  <><div className="search">
-      <h1 className="homepage-intro-text">Welcome to Sublettee</h1>;
-      <input
-        type="text"
-        placeholder="Search..."
-        value={inputText}
-        onChange={inputHandler}/>
 
-    </div></>
+  const handleSearch = () => {
+    fetchListings(zipCode, filters);
+  };
+
+  return (
+    <div className="home-container">
+      {/* Search Bar */}
+      <div className="search-bar-container">
+        <input
+          type="text"
+          placeholder="Enter Zip Code"
+          value={zipCode}
+          onChange={(e) => setZipCode(e.target.value)}
+          className="search-bar"
+        />
+        <button onClick={handleSearch} className="search-button">
+          Search
+        </button>
+      </div>
+
+      {/* Filters */}
+      <SearchFilters onFilterChange={(newFilters) => setFilters(newFilters)} />
+
+      {/* Map and listing details */}
+      <div className="map-details-container">
+        <div className="map-view">
+          <MapView listings={listings} zipCode={zipCode} loading={loading} />
+        </div>
+        <div className="listing-details">
+          <ListingDetails listings={listings} loading={loading} />
+        </div>
+      </div>
+    </div>
   );
-  <br>
-  </br>
-  return <h1>Welcome to the Home Page</h1>;
-}
+};
 
 export default Home;

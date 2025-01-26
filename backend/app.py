@@ -1,10 +1,15 @@
 from flask import Flask
 from config import Config
 from flask_pymongo import PyMongo
+from flask_cors import CORS
+from pymongo import MongoClient
 from routes import home_routes, user_routes
 
 # Flask app
 app = Flask(__name__)
+
+# CORS Compliance
+CORS(app)
 
 # Loads config w/ MongoDB URI
 app.config.from_object(Config)

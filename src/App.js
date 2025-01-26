@@ -8,6 +8,7 @@ import Contacts from './Contacts.js';
 import Home from './Home.js';
 import MyListings from './MyListings.js';
 import Profile from './Profile.js';
+import Listings from './Listings.js';
 
 function App() {
   const { loginWithRedirect, isAuthenticated } = useAuth0();
@@ -16,15 +17,12 @@ function App() {
     <Router>
       <div className="App">
         <Header />
-        {/* <main className="App-main">
-            
-        </main> */}
-        {/* Router for navigating to Login after clicking button*/}
         <Routes>
               <Route path = '/logout' element={<LogOut />} />
               <Route path="/contacts" element={<Contacts />} />
               <Route path="/home" element={<Home />} />
               <Route path="/mylistings" element={<MyListings />} />
+              <Route path="/listings" element={<Listings />} />
               <Route path="/profile" element={<Profile />} />
               <Route path="/forms" element={<myInformation />} />
         </Routes>
