@@ -2,7 +2,6 @@ import {BrowserRouter as Router, Routes, Route, Link} from 'react-router-dom';
 import './App.css';
 import {useAuth0} from '@auth0/auth0-react';
 import Header from './Header.js';
-import Contacts from './Contacts.js';
 import MyInformation from "./personalInformation.js";
 import Home from './Home.js';
 import MyListings from './MyListings.js';
@@ -31,7 +30,7 @@ function App() {
     <div className="App">
       <Header/>
       <Routes>
-            <Route path="/contacts" element={<Contacts />} />
+            {/* <Route path="/contacts" element={<Contacts />} /> */}
             <Route path="/home" element={<Home />} />
             <Route path="/mylistings" element={<MyListings />} />
             <Route path="/listings" element={<Listings />} />

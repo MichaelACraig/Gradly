@@ -23,32 +23,37 @@ function Header() {
 
   return (
     <nav className="header">
-      <div className="navigation-bar-item navigation-bar-link-item">
-        <NavLink to="/home" className="nav-link">
-          Home
-        </NavLink>
+      <div className="website-title">
+        Sublettee
       </div>
-
-      <div className="navigation-bar-item navigation-bar-link-item">
+      <div className="header-contents">
+        {/* <div className="navigation-bar-item navigation-bar-link-item">
         <NavLink to="/mylistings" className="nav-link">
           My Listings
         </NavLink>
-      </div>
+        </div>
 
-      <div className="navigation-bar-item navigation-bar-link-item">
-        <NavLink to="/contacts" className="nav-link">
-          Contacts
-        </NavLink>
-      </div>
+        <div className="navigation-bar-item navigation-bar-link-item">
+          <NavLink to="/contacts" className="nav-link">
+            Contacts
+          </NavLink>
+        </div> */}
 
-      <div className="navigation-bar-item">
-        {/* Profile icon button */}
-        <button 
-          className="btn btn-primary" 
-          onClick={handleProfileClick}
-        >
-          <i className="bi bi-person-circle"></i>
-        </button>
+        <div className="navigation-bar-item navigation-bar-link-item">
+          <NavLink to="/home" className="nav-link">
+            <i class="bi bi-house"></i>
+          </NavLink>
+        </div>
+
+        <div className="navigation-bar-item">
+          {/* Profile icon button */}
+          <button 
+            className="btn btn-primary" 
+            onClick={handleProfileClick}
+          >
+            <i className="bi bi-person-circle"></i>
+          </button>
+        </div>
       </div>
     </nav>
   );
