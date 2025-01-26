@@ -4,7 +4,7 @@ const Listing = ({ listing }) => {
   return (
     <div className="listing-card border p-4 rounded-lg shadow-md">
       <h2 className="text-xl font-semibold">{listing.name}</h2>
-      <p>{listing.price_per_month} per month</p>
+      <p>${listing.price_per_month} per month</p>
       <p>{listing.duration}</p>
       <p>Location: {listing.location}</p>
       <div className="contact-info">
