@@ -8,7 +8,6 @@ import MyListings from './MyListings.js';
 import Profile from './Profile.js';
 import ReLogin from "./ReLogin.js";
 import Listings from './Listings.js';
-import { useNavigate } from "react-router-dom";
 import { useEffect } from "react";
 
 function App() {

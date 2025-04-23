@@ -1,7 +1,5 @@
 from flask import Blueprint, request, jsonify
-from werkzeug.security import generate_password_hash, check_password_hash
 from pymongo import MongoClient
-from datetime import datetime
 import os, certifi
 
 home_routes = Blueprint('home_routes', __name__)
