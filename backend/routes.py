@@ -2,13 +2,14 @@ from flask import Blueprint, request, jsonify
 from werkzeug.security import generate_password_hash, check_password_hash
 from pymongo import MongoClient
 from datetime import datetime
-import os
+import os, certifi
 
 home_routes = Blueprint('home_routes', __name__)
 user_routes = Blueprint('user_routes', __name__)
 
 MONGO_URI = os.getenv('MONGO_URI')
-client = MongoClient(MONGO_URI)
+client = MongoClient(MONGO_URI, tlsCAFile=certifi.where())
+
 db = client['Database']
 collection = db['listingData']
 
@@ -39,6 +40,3 @@ def signup():
 @user_routes.route('/user/<int:id>', methods=['GET'])
 def get_user_profile(id):
   pass
-
-
-
